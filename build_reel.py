@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Usage: python3 build_reel.py <topic_id>  -> writes videos/<topic_id>.mp4 (1080x1920, 8s, Lora font)."""
+"""Usage: python3 build_reel.py <topic_id>  -> writes videos/<topic_id>.mp4 and covers/<topic_id>.jpg (thumbnail with the text visible)."""
 import json, subprocess, sys, os, html, tempfile
 FONT="file:///usr/share/fonts/truetype/google-fonts/Lora-Variable.ttf"
 FONTI="file:///usr/share/fonts/truetype/google-fonts/Lora-Italic-Variable.ttf"
@@ -38,6 +38,10 @@ html,body{{margin:0;width:1080px;height:1920px;background:transparent;font-famil
     fc=("[0:v]scale=2160:3840,zoompan=z='1+0.0006*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=240:s=1080x1920:fps=30[b];"
         "[1:v]format=rgba,fade=t=in:st=0.6:d=1:alpha=1[t];[b][t]overlay=0:0,format=yuv420p[v]")
     subprocess.run(["ffmpeg","-y","-loop","1","-i",f"{d}/bg.png","-loop","1","-i",f"{d}/text.png","-filter_complex",fc,"-map","[v]","-t","8","-c:v","libx264","-preset","veryfast","-crf","20",f"videos/{tid}.mp4"],check=True,capture_output=True)
+    from PIL import Image
+    os.makedirs("covers",exist_ok=True)
+    cv=Image.open(f"{d}/bg.png").convert("RGBA"); cv.alpha_composite(Image.open(f"{d}/text.png").convert("RGBA"))
+    cv.convert("RGB").save(f"covers/{tid}.jpg",quality=90)
     subprocess.run(["ffmpeg","-y","-ss","4","-i",f"videos/{tid}.mp4","-frames:v","1","-vf","scale=360:-1",f"{d}/check.png","-loglevel","error"],check=True)
     print(f"videos/{tid}.mp4 built; preview frame: {d}/check.png")
 main(sys.argv[1])
