@@ -1,114 +1,114 @@
 [
- {
-  "id": "asthma-copd",
-  "caption": null,
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-7.jpg"
-  ],
-  "posted": true,
-  "media_id": "18222017161348360",
-  "posted_at": "2026-11-24"
- },
- {
-  "id": "raas",
-  "caption": "ACE inhibitors and ARBs hit the same pathway at different steps. Angiotensin II is the villain: it constricts vessels, triggers aldosterone, and holds on to salt and water. ACE inhibitors stop it from being made. ARBs block its AT1 receptor instead. The catch is bradykinin: ACE normally breaks it down, so ACE inhibitors let it build up, causing cough and sometimes angioedema. ED red flags: hyperkalemia, AKI, angioedema, and hypotension. Save the last slide for the whole picture.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
-  "id": "lasix",
-  "caption": "Lasix works by blocking one transporter. Furosemide blocks NKCC2 in the thick ascending limb of the loop of Henle, so sodium, potassium, and chloride stay in the tubule and water follows them out. That is why it is so powerful. IV Lasix also dilates veins within minutes, which helps in pulmonary edema before the urine even flows. The cost: you lose potassium, magnesium, and calcium, and you can overshoot into hypovolemia and AKI. Save the last slide for the whole picture.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
-  "id": "anticoag",
-  "caption": "Warfarin vs DOACs: same goal, different targets. Warfarin blocks VKORC1, so vitamin K cannot be recycled and factors II, VII, IX, and X are made inactive. That is slow and needs INR monitoring. DOACs block one enzyme directly: factor Xa (apixaban, rivaroxaban, edoxaban) or thrombin (dabigatran). Fixed dosing, fewer interactions, no routine INR. Know your reversal agents before the bleed. Warfarin still wins for mechanical valves, moderate to severe mitral stenosis, and antiphospholipid syndrome. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
-  "id": "betablocker",
-  "caption": "Beta blockers turn down the sympathetic drive. Beta1 receptors in the heart use Gs, cAMP, and PKA to raise rate and contractility. Block them and heart rate, contractility, and oxygen demand all fall. Selectivity matters: beta2 blockade in the lungs can cause bronchospasm. ED uses include AF with RVR, ACS, aortic dissection (esmolol first), and thyroid storm. In overdose, glucagon works because it makes cAMP through its own receptor and bypasses the block. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
-  "id": "statin",
-  "caption": "Statins block the rate limiting step of cholesterol synthesis. HMG-CoA reductase turns HMG-CoA into mevalonate in the liver. Block it, and liver cells upregulate LDL receptors and pull more LDL out of the blood. Beyond LDL, statins stabilize plaques and calm inflammation, which is why they prevent MIs and strokes. ED relevance: muscle pain plus dark urine means check a CK and creatinine for rhabdomyolysis, especially with CYP3A4 inhibitors or gemfibrozil. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
-  "id": "sglt2",
-  "caption": "SGLT2 inhibitors make you pee out the sugar. SGLT2 in the proximal tubule reabsorbs most of the filtered glucose along with sodium. Block it and glucose and sodium leave in the urine, lowering glucose, weight, and blood pressure. The benefits reach the heart and kidneys: fewer heart failure hospitalizations and slower CKD progression, with or without diabetes. The ED catch is euglycemic DKA: ketoacidosis with a normal glucose. Check ketones and a gap, not just the glucose. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- }
+  {
+    "id": "asthma-copd",
+    "caption": null,
+    "image_urls": [
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-1.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-2.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-3.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-4.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-5.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-6.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-7.jpg"
+    ],
+    "posted": true,
+    "media_id": "18222017161348360",
+    "posted_at": "2026-11-24"
+  },
+  {
+    "id": "raas",
+    "caption": "ACE inhibitors and ARBs hit the same pathway at different steps. Angiotensin II is the villain: it constricts vessels, triggers aldosterone, and holds on to salt and water. ACE inhibitors stop it from being made. ARBs block its AT1 receptor instead. The catch is bradykinin: ACE normally breaks it down, so ACE inhibitors let it build up, causing cough and sometimes angioedema. ED red flags: hyperkalemia, AKI, angioedema, and hypotension. Save the last slide for the whole picture.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+    "image_urls": [
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-1.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-2.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-3.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-4.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-5.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-6.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-7.jpg"
+    ],
+    "posted": true,
+    "media_id": "18167223106494188",
+    "posted_at": "2026-11-25"
+  },
+  {
+    "id": "lasix",
+    "caption": "Lasix works by blocking one transporter. Furosemide blocks NKCC2 in the thick ascending limb of the loop of Henle, so sodium, potassium, and chloride stay in the tubule and water follows them out. That is why it is so powerful. IV Lasix also dilates veins within minutes, which helps in pulmonary edema before the urine even flows. The cost: you lose potassium, magnesium, and calcium, and you can overshoot into hypovolemia and AKI. Save the last slide for the whole picture.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+    "image_urls": [
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-1.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-2.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-3.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-4.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-5.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-6.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-7.jpg"
+    ],
+    "posted": false,
+    "media_id": null,
+    "posted_at": null
+  },
+  {
+    "id": "anticoag",
+    "caption": "Warfarin vs DOACs: same goal, different targets. Warfarin blocks VKORC1, so vitamin K cannot be recycled and factors II, VII, IX, and X are made inactive. That is slow and needs INR monitoring. DOACs block one enzyme directly: factor Xa (apixaban, rivaroxaban, edoxaban) or thrombin (dabigatran). Fixed dosing, fewer interactions, no routine INR. Know your reversal agents before the bleed. Warfarin still wins for mechanical valves, moderate to severe mitral stenosis, and antiphospholipid syndrome. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+    "image_urls": [
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-1.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-2.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-3.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-4.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-5.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-6.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-7.jpg"
+    ],
+    "posted": false,
+    "media_id": null,
+    "posted_at": null
+  },
+  {
+    "id": "betablocker",
+    "caption": "Beta blockers turn down the sympathetic drive. Beta1 receptors in the heart use Gs, cAMP, and PKA to raise rate and contractility. Block them and heart rate, contractility, and oxygen demand all fall. Selectivity matters: beta2 blockade in the lungs can cause bronchospasm. ED uses include AF with RVR, ACS, aortic dissection (esmolol first), and thyroid storm. In overdose, glucagon works because it makes cAMP through its own receptor and bypasses the block. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+    "image_urls": [
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-1.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-2.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-3.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-4.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-5.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-6.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-7.jpg"
+    ],
+    "posted": false,
+    "media_id": null,
+    "posted_at": null
+  },
+  {
+    "id": "statin",
+    "caption": "Statins block the rate limiting step of cholesterol synthesis. HMG-CoA reductase turns HMG-CoA into mevalonate in the liver. Block it, and liver cells upregulate LDL receptors and pull more LDL out of the blood. Beyond LDL, statins stabilize plaques and calm inflammation, which is why they prevent MIs and strokes. ED relevance: muscle pain plus dark urine means check a CK and creatinine for rhabdomyolysis, especially with CYP3A4 inhibitors or gemfibrozil. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+    "image_urls": [
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-1.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-2.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-3.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-4.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-5.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-6.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-7.jpg"
+    ],
+    "posted": false,
+    "media_id": null,
+    "posted_at": null
+  },
+  {
+    "id": "sglt2",
+    "caption": "SGLT2 inhibitors make you pee out the sugar. SGLT2 in the proximal tubule reabsorbs most of the filtered glucose along with sodium. Block it and glucose and sodium leave in the urine, lowering glucose, weight, and blood pressure. The benefits reach the heart and kidneys: fewer heart failure hospitalizations and slower CKD progression, with or without diabetes. The ED catch is euglycemic DKA: ketoacidosis with a normal glucose. Check ketones and a gap, not just the glucose. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+    "image_urls": [
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-1.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-2.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-3.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-4.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-5.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-6.jpg",
+      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-7.jpg"
+    ],
+    "posted": false,
+    "media_id": null,
+    "posted_at": null
+  }
 ]
