@@ -395,6 +395,19 @@
   "posted_at": null
  },
  {
+  "id": "ecg-wpw-af",
+  "caption": "ECG pearl: a very fast, irregular, wide complex rhythm with changing QRS shapes can be atrial fibrillation with WPW. Avoid AV nodal blockers. Cardiovert if unstable, procainamide if stable. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
   "id": "shock-types",
   "caption": "Shock is inadequate oxygen delivery. BP equals cardiac output times systemic vascular resistance. Hypovolemic shock is cold with low filling pressures, cardiogenic is cold and wet, distributive is warm with low SVR, and obstructive comes from PE, tamponade, or tension pneumothorax. Match the type to the fix. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -405,6 +418,183 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "anaphylaxis",
+  "caption": "Anaphylaxis is IgE mediated mast cell and basophil degranulation. Histamine and other mediators cause vasodilation, leak, and bronchospasm. Epinephrine IM into the anterolateral thigh is first line. Antihistamines and steroids are adjuncts only. Observe for a biphasic reaction. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-6.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-brugada",
+  "caption": "ECG pearl: coved ST elevation of at least 2 mm in V1 or V2 followed by an inverted T wave is the Brugada type 1 pattern. Fever and sodium channel blockers can unmask it. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "sepsis-bundle",
+  "caption": "Sepsis in the ED: measure lactate, get cultures, give broad antibiotics within 1 hour if shock is likely or present, give 30 mL/kg crystalloid for hypoperfusion, and start norepinephrine for a MAP under 65 despite fluids. Source control matters too. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "aortic-dissection",
+  "caption": "Aortic dissection: sudden tearing pain, pulse or blood pressure differences, neuro deficits, or a new aortic regurgitation murmur. Use the ADD-RS, then CT angiography. Control heart rate first with a beta blocker, then blood pressure. Type A goes to surgery. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-pericarditis",
+  "caption": "ECG pearl: diffuse concave ST elevation with PR depression, and PR elevation in aVR, points to pericarditis. Reciprocal ST depression or convex ST elevation favors a STEMI instead. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ugib",
+  "caption": "Upper GI bleed in the ED: resuscitate, risk stratify with the Glasgow-Blatchford score, transfuse for hemoglobin of 7 or less, start an IV PPI, and get endoscopy within 24 hours. If varices are possible, add octreotide and ceftriaxone. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "afib-ed",
+  "caption": "AF with RVR in the ED: unstable patients get synchronized cardioversion. Stable patients get rate control with a beta blocker or diltiazem, or rhythm control. Avoid diltiazem in systolic heart failure. In WPW, use cardioversion or procainamide. Decide on anticoagulation with CHA2DS2-VASc. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-6.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-torsades",
+  "caption": "ECG pearl: polymorphic VT with a twisting QRS and a long QT is torsades de pointes. IV magnesium is first line, correct potassium, and stop QT prolonging drugs. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "chest-pain-big5",
+  "caption": "Chest pain in the ED: rule out the life threats before you think about benign causes. These are acute coronary syndrome, pulmonary embolism, aortic dissection, tension pneumothorax, and esophageal rupture. Each has one clue and one test. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-wct",
+  "caption": "ECG pearl: treat a wide complex tachycardia as VT until proven otherwise. AV dissociation, capture or fusion beats, and chest lead negative concordance point to VT, and stable vitals do not rule it out. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-rv-infarct",
+  "caption": "ECG pearl: inferior STEMI with hypotension, JVD, and clear lungs is an RV infarct until proven otherwise. Get a right sided ECG and avoid nitrates. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-digoxin",
+  "caption": "ECG pearl: scooped ST segments are the digitalis effect and do not mean toxicity. Toxicity shows up as arrhythmias like atrial tachycardia with block or bidirectional VT. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-calcium",
+  "caption": "ECG pearl: low calcium lengthens the QT interval and high calcium shortens it. Low potassium and low magnesium also cause long QT patterns and torsades risk. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-4.jpg"
   ],
   "posted": false,
   "media_id": null,

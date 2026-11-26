@@ -2086,5 +2086,996 @@
     "text": "Obstructive shock with this ECG means get an echo now. If the patient is unstable, drain it with pericardiocentesis."
    }
   ]
+ },
+ {
+  "id": "ecg-wpw-af",
+  "palette": 2,
+  "caption": "ECG pearl: a very fast, irregular, wide complex rhythm with changing QRS shapes can be atrial fibrillation with WPW. Avoid AV nodal blockers. Cardiovert if unstable, procainamide if stable. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Very fast irregular wide complex tachycardia with varying QRS widths?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Atrial fibrillation with WPW. Do not give AV nodal blockers.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "Why it is dangerous",
+      "The accessory pathway bypasses the AV node, so the ventricles can fire at 200 to 300 per minute and degenerate to VF"
+     ],
+     [
+      "Avoid",
+      "Digoxin, adenosine, calcium channel blockers, and beta blockers can speed conduction down the pathway"
+     ],
+     [
+      "Unstable",
+      "Immediate synchronized cardioversion"
+     ],
+     [
+      "Stable",
+      "IV procainamide or ibutilide"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "A wide, irregular, very fast rhythm in a young patient is pre-excited AF until proven otherwise. Cardiovert if unstable and keep the AV nodal blockers away."
+   }
+  ]
+ },
+ {
+  "id": "ecg-brugada",
+  "palette": 2,
+  "caption": "ECG pearl: coved ST elevation of at least 2 mm in V1 or V2 followed by an inverted T wave is the Brugada type 1 pattern. Fever and sodium channel blockers can unmask it. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Coved ST elevation in V1 and V2 followed by an inverted T wave?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Brugada type 1 pattern.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "Definition",
+      "Coved ST elevation of at least 2 mm in V1 or V2, followed by a negative T wave"
+     ],
+     [
+      "Only type 1 counts",
+      "Saddleback patterns are suggestive but not diagnostic"
+     ],
+     [
+      "Triggers",
+      "Fever, sodium channel blockers, cocaine, and alcohol can unmask it"
+     ],
+     [
+      "Tip",
+      "Recording V1 and V2 one or two spaces higher can reveal it"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "A type 1 pattern with syncope or arrest needs admission and electrophysiology input. Treat fever and avoid triggering drugs. The definitive treatment is an ICD."
+   }
+  ]
+ },
+ {
+  "id": "ecg-pericarditis",
+  "palette": 2,
+  "caption": "ECG pearl: diffuse concave ST elevation with PR depression, and PR elevation in aVR, points to pericarditis. Reciprocal ST depression or convex ST elevation favors a STEMI instead. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Chest pain with diffuse concave ST elevation?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Think pericarditis, and check it is not a STEMI.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "Pericarditis pattern",
+      "Diffuse concave ST elevation, PR depression, and PR elevation with ST depression in aVR"
+     ],
+     [
+      "No reciprocal changes",
+      "ST depression anywhere except aVR and V1 favors MI"
+     ],
+     [
+      "Shape matters",
+      "Convex or tombstone ST elevation strongly favors MI"
+     ],
+     [
+      "Look for",
+      "Sinus tachycardia, pericardial effusion on echo, and troponin if myocarditis is possible"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Diffuse concave ST elevation with PR depression is pericarditis. If any lead shows convex ST elevation or reciprocal depression, treat it as an MI."
+   }
+  ]
+ },
+ {
+  "id": "ecg-torsades",
+  "palette": 2,
+  "caption": "ECG pearl: polymorphic VT with a twisting QRS and a long QT is torsades de pointes. IV magnesium is first line, correct potassium, and stop QT prolonging drugs. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Twisting polymorphic VT with a long QT?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Torsades de pointes. Give magnesium.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "The setup",
+      "A short, long, short RR sequence leads into torsades, and the QT before it is long"
+     ],
+     [
+      "First line drug",
+      "Magnesium sulfate 2 g IV (about 25 to 30 mg/kg for a 70 to 80 kg adult), even with a normal magnesium level"
+     ],
+     [
+      "Also",
+      "Stop QT prolonging drugs and correct potassium"
+     ],
+     [
+      "If unstable",
+      "Pulseless torsades gets defibrillated. Pacing or isoproterenol can raise the heart rate"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Long QT plus polymorphic VT means magnesium, fix potassium, and stop the offending drug. Shock it if the patient is pulseless or unstable."
+   }
+  ]
+ },
+ {
+  "id": "ecg-wct",
+  "palette": 2,
+  "caption": "ECG pearl: treat a wide complex tachycardia as VT until proven otherwise. AV dissociation, capture or fusion beats, and chest lead negative concordance point to VT, and stable vitals do not rule it out. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Regular wide complex tachycardia in a patient who looks stable?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Treat it as VT until proven otherwise.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "Odds",
+      "Most wide complex tachycardias are VT, especially in patients over 35 or with heart disease"
+     ],
+     [
+      "Clues for VT",
+      "AV dissociation, capture or fusion beats, and negative concordance in the chest leads"
+     ],
+     [
+      "Stable vitals",
+      "A normal blood pressure does not rule out VT"
+     ],
+     [
+      "Unstable",
+      "Synchronized cardioversion"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "When you are unsure, call it VT. Look for AV dissociation and fusion beats, and do not be reassured by a stable blood pressure."
+   }
+  ]
+ },
+ {
+  "id": "ecg-rv-infarct",
+  "palette": 2,
+  "caption": "ECG pearl: inferior STEMI with hypotension, JVD, and clear lungs is an RV infarct until proven otherwise. Get a right sided ECG and avoid nitrates. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Inferior STEMI with hypotension, JVD, and clear lungs?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Right ventricular infarct. Get V4R and avoid nitrates.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "How common",
+      "RV infarction complicates up to 40 percent of inferior STEMIs"
+     ],
+     [
+      "ECG clues",
+      "ST elevation in III greater than II, or ST elevation in V1 with ST depression in V2"
+     ],
+     [
+      "Confirm",
+      "ST elevation of 1 mm in V4R (sensitivity 88 percent, specificity 78 percent)"
+     ],
+     [
+      "Preload dependent",
+      "Avoid nitrates, diuretics, and opioids. Give gentle fluids and reperfuse"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Every inferior STEMI deserves a right sided ECG. If the RV is involved, protect the preload and go for reperfusion."
+   }
+  ]
+ },
+ {
+  "id": "ecg-digoxin",
+  "palette": 2,
+  "caption": "ECG pearl: scooped ST segments are the digitalis effect and do not mean toxicity. Toxicity shows up as arrhythmias like atrial tachycardia with block or bidirectional VT. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Scooped ST segments on an ECG in a patient taking digoxin?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Digitalis effect, not toxicity.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "The effect",
+      "Scooped ST segments (the reverse tick) occur at therapeutic levels"
+     ],
+     [
+      "Toxicity looks like",
+      "Arrhythmias: frequent PVCs, atrial tachycardia with block, AF with a slow regular response, bidirectional VT"
+     ],
+     [
+      "Potassium",
+      "High potassium in acute toxicity marks severe poisoning"
+     ],
+     [
+      "Antidote",
+      "Digoxin Fab for life threatening arrhythmias or severe hyperkalemia"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Scooped ST segments mean the patient is on digoxin, not poisoned by it. Toxicity is a clinical picture plus arrhythmias, so treat the patient and not the level."
+   }
+  ]
+ },
+ {
+  "id": "ecg-calcium",
+  "palette": 2,
+  "caption": "ECG pearl: low calcium lengthens the QT interval and high calcium shortens it. Low potassium and low magnesium also cause long QT patterns and torsades risk. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Long QT or short QT: which electrolyte?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Low calcium lengthens the QT. High calcium shortens it.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "Calcium",
+      "It controls the ST segment length, so low calcium means a long QT and high calcium means a short QT"
+     ],
+     [
+      "Hypokalemia",
+      "Flat T waves, U waves, and a long QU interval that can be mistaken for a long QT"
+     ],
+     [
+      "Hypomagnesemia",
+      "Long QT with a risk of torsades"
+     ],
+     [
+      "Hyperkalemia",
+      "Tall, peaked T waves are the earliest sign"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Check calcium, potassium, and magnesium in any patient with a long QT before you give a QT prolonging drug."
+   }
+  ]
+ },
+ {
+  "id": "anaphylaxis",
+  "palette": 4,
+  "caption": "Anaphylaxis is IgE mediated mast cell and basophil degranulation. Histamine and other mediators cause vasodilation, leak, and bronchospasm. Epinephrine IM into the anterolateral thigh is first line. Antihistamines and steroids are adjuncts only. Observe for a biphasic reaction. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "EMERGENCY",
+    "title": "Anaphylaxis",
+    "sub": "Mechanism to first move"
+   },
+   {
+    "type": "flow",
+    "tag": "MECHANISM",
+    "title": "How it happens",
+    "sub": "",
+    "steps": [
+     [
+      "Prior sensitization",
+      "IgE binds mast cells and basophils"
+     ],
+     [
+      "Re-exposure",
+      "Antigen cross links the IgE"
+     ],
+     [
+      "Degranulation",
+      "Histamine, tryptase, leukotrienes released"
+     ],
+     [
+      "Effects",
+      "Vasodilation, leak, bronchospasm, urticaria"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "RECOGNIZE",
+    "title": "Skin plus one more system",
+    "sub": "",
+    "items": [
+     [
+      "Skin",
+      "Hives, flushing, angioedema"
+     ],
+     [
+      "Airway or breathing",
+      "Stridor, wheeze, dyspnea"
+     ],
+     [
+      "Circulation",
+      "Hypotension, syncope"
+     ],
+     [
+      "GI",
+      "Vomiting, cramping after a likely allergen"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "TREAT",
+    "title": "Epinephrine first",
+    "sub": "",
+    "items": [
+     [
+      "Epinephrine IM",
+      "0.01 mg/kg, usually 0.3 to 0.5 mg of 1 mg/mL in adults, anterolateral thigh, repeat every 5 to 15 minutes"
+     ],
+     [
+      "Support",
+      "Airway, oxygen, IV fluids, lie flat"
+     ],
+     [
+      "Adjuncts",
+      "H1 and H2 blockers and steroids come after epinephrine"
+     ],
+     [
+      "On a beta blocker",
+      "Still give epinephrine, glucagon if refractory"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "AFTER",
+    "title": "Do not discharge too fast",
+    "sub": "",
+    "items": [
+     [
+      "Biphasic reaction",
+      "Can recur hours later, so observe 4 to 12 hours based on risk"
+     ],
+     [
+      "Discharge",
+      "Epinephrine auto-injector and an action plan"
+     ],
+     [
+      "Tryptase",
+      "Can support the diagnosis if unclear"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Anaphylaxis is mast cell degranulation. Give IM epinephrine early, support the airway and circulation, and observe for a biphasic reaction."
+   }
+  ]
+ },
+ {
+  "id": "sepsis-bundle",
+  "palette": 5,
+  "caption": "Sepsis in the ED: measure lactate, get cultures, give broad antibiotics within 1 hour if shock is likely or present, give 30 mL/kg crystalloid for hypoperfusion, and start norepinephrine for a MAP under 65 despite fluids. Source control matters too. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "CRITICAL CARE",
+    "title": "Sepsis first hours",
+    "sub": "What to do and in what order"
+   },
+   {
+    "type": "flow",
+    "tag": "FIRST HOUR",
+    "title": "The sequence",
+    "sub": "",
+    "steps": [
+     [
+      "Recognize sepsis",
+      "Suspected infection plus organ dysfunction"
+     ],
+     [
+      "Lactate and cultures",
+      "Blood cultures before antibiotics if no delay"
+     ],
+     [
+      "Broad antibiotics",
+      "Within 1 hour for septic shock or high likelihood"
+     ],
+     [
+      "Fluids",
+      "30 mL/kg crystalloid for hypotension or lactate 4 or higher"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "PRESSORS",
+    "title": "If still hypotensive",
+    "sub": "",
+    "items": [
+     [
+      "Target",
+      "MAP 65 or higher"
+     ],
+     [
+      "First line",
+      "Norepinephrine"
+     ],
+     [
+      "Add",
+      "Vasopressin if the norepinephrine dose keeps climbing"
+     ],
+     [
+      "After that",
+      "Reassess volume status and perfusion with dynamic measures"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "DONT FORGET",
+    "title": "Beyond bugs and drugs",
+    "sub": "",
+    "items": [
+     [
+      "Source control",
+      "Drain the abscess, remove the infected device"
+     ],
+     [
+      "Antibiotic timing",
+      "Without shock, 3 hours after a quick workup is acceptable if infection is still likely"
+     ],
+     [
+      "Lactate",
+      "Repeat it if elevated"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Sepsis is time sensitive: lactate, cultures, antibiotics, fluids, pressors if needed, and find the source."
+   }
+  ]
+ },
+ {
+  "id": "aortic-dissection",
+  "palette": 0,
+  "caption": "Aortic dissection: sudden tearing pain, pulse or blood pressure differences, neuro deficits, or a new aortic regurgitation murmur. Use the ADD-RS, then CT angiography. Control heart rate first with a beta blocker, then blood pressure. Type A goes to surgery. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "EMERGENCY",
+    "title": "Aortic dissection",
+    "sub": "Do not miss it"
+   },
+   {
+    "type": "list",
+    "tag": "SUSPECT IT",
+    "title": "High risk clues",
+    "sub": "",
+    "items": [
+     [
+      "Pain",
+      "Sudden, severe, tearing, chest or back"
+     ],
+     [
+      "Exam",
+      "Pulse deficit, arm BP difference, new diastolic murmur, focal neuro deficit"
+     ],
+     [
+      "Risk",
+      "Hypertension, Marfan, Ehlers-Danlos, bicuspid valve"
+     ],
+     [
+      "Common mistake",
+      "It is often misdiagnosed as an MI"
+     ]
+    ]
+   },
+   {
+    "type": "flow",
+    "tag": "WORKUP",
+    "title": "From suspicion to answer",
+    "sub": "",
+    "steps": [
+     [
+      "ADD-RS",
+      "Risk score using 12 clinical markers"
+     ],
+     [
+      "Low risk",
+      "D-dimer may help in low or intermediate risk"
+     ],
+     [
+      "High risk",
+      "CT angiography of the chest, abdomen, and pelvis"
+     ],
+     [
+      "TTE or TEE",
+      "If the patient is too unstable for CT"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "TREAT",
+    "title": "Anti-impulse therapy",
+    "sub": "",
+    "items": [
+     [
+      "Heart rate first",
+      "Beta blocker such as esmolol, goal below 60"
+     ],
+     [
+      "Then blood pressure",
+      "Systolic 100 to 120 mmHg"
+     ],
+     [
+      "Pain",
+      "Treat it, since pain drives pressure"
+     ],
+     [
+      "Disposition",
+      "Type A: emergency surgery. Type B: medical management unless complicated"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Think of dissection with tearing pain and pulse or BP differences. Image with CT angiography, control heart rate before blood pressure, and call surgery for type A."
+   }
+  ]
+ },
+ {
+  "id": "ugib",
+  "palette": 3,
+  "caption": "Upper GI bleed in the ED: resuscitate, risk stratify with the Glasgow-Blatchford score, transfuse for hemoglobin of 7 or less, start an IV PPI, and get endoscopy within 24 hours. If varices are possible, add octreotide and ceftriaxone. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "GI",
+    "title": "Upper GI bleed",
+    "sub": "ED approach"
+   },
+   {
+    "type": "flow",
+    "tag": "RESUSCITATE",
+    "title": "First steps",
+    "sub": "",
+    "steps": [
+     [
+      "ABCs and IV access",
+      "Two large bore IVs"
+     ],
+     [
+      "Labs",
+      "CBC, type and screen, coags, BUN, liver tests"
+     ],
+     [
+      "Transfuse",
+      "Restrictive threshold of 7 g/dL"
+     ],
+     [
+      "Risk score",
+      "Glasgow-Blatchford: very low risk patients may go home"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "MEDICATIONS",
+    "title": "Start early",
+    "sub": "",
+    "items": [
+     [
+      "IV PPI",
+      "Pantoprazole 80 mg bolus, then continuous or intermittent dosing"
+     ],
+     [
+      "Varices suspected",
+      "Octreotide 50 mcg bolus then 50 mcg/hour"
+     ],
+     [
+      "Cirrhosis",
+      "Ceftriaxone 1 g daily for prophylaxis"
+     ],
+     [
+      "Pre-endoscopy",
+      "Erythromycin can improve visualization"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "DEFINITIVE",
+    "title": "Find and fix",
+    "sub": "",
+    "items": [
+     [
+      "Endoscopy",
+      "Within 24 hours of presentation"
+     ],
+     [
+      "Avoid over-transfusion",
+      "Especially in cirrhosis, since it can raise portal pressure"
+     ],
+     [
+      "Disposition",
+      "Admit unless Blatchford score is 0 to 1"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Upper GI bleed: resuscitate, transfuse at 7, give a PPI, add octreotide and ceftriaxone for varices, and scope within 24 hours."
+   }
+  ]
+ },
+ {
+  "id": "afib-ed",
+  "palette": 1,
+  "caption": "AF with RVR in the ED: unstable patients get synchronized cardioversion. Stable patients get rate control with a beta blocker or diltiazem, or rhythm control. Avoid diltiazem in systolic heart failure. In WPW, use cardioversion or procainamide. Decide on anticoagulation with CHA2DS2-VASc. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "CARDIOLOGY",
+    "title": "Atrial fibrillation in the ED",
+    "sub": "Stable versus unstable"
+   },
+   {
+    "type": "flow",
+    "tag": "FIRST QUESTION",
+    "title": "Stable or not?",
+    "sub": "",
+    "steps": [
+     [
+      "Unstable",
+      "Hypotension, ischemia, pulmonary edema, altered mentation"
+     ],
+     [
+      "Unstable AF",
+      "Synchronized cardioversion"
+     ],
+     [
+      "Stable AF",
+      "Choose rate control or rhythm control"
+     ],
+     [
+      "Pre-excitation",
+      "Cardiovert or give procainamide"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "RATE CONTROL",
+    "title": "Common choices",
+    "sub": "",
+    "items": [
+     [
+      "Beta blocker",
+      "Metoprolol or esmolol"
+     ],
+     [
+      "Calcium channel blocker",
+      "Diltiazem, but avoid in reduced ejection fraction"
+     ],
+     [
+      "Heart failure",
+      "Use caution with all negative inotropes"
+     ],
+     [
+      "Avoid in WPW",
+      "AV nodal blockers can speed pathway conduction"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "RHYTHM CONTROL",
+    "title": "Cardioversion in the ED",
+    "sub": "",
+    "items": [
+     [
+      "Clear onset under 12 hours",
+      "Cardioversion is reasonable"
+     ],
+     [
+      "Onset under 48 hours",
+      "Consider cardioversion in low risk patients"
+     ],
+     [
+      "Unknown or longer",
+      "Rate control or anticoagulation first"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "ANTICOAGULATION",
+    "title": "Do not skip it",
+    "sub": "",
+    "items": [
+     [
+      "Score",
+      "CHA2DS2-VASc guides the decision"
+     ],
+     [
+      "Agent",
+      "Direct oral anticoagulants are first line"
+     ],
+     [
+      "Before cardioversion",
+      "Start anticoagulation when indicated"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Unstable AF gets shocked. Stable AF gets rate or rhythm control. Think about heart failure, WPW, and anticoagulation."
+   }
+  ]
+ },
+ {
+  "id": "chest-pain-big5",
+  "palette": 2,
+  "caption": "Chest pain in the ED: rule out the life threats before you think about benign causes. These are acute coronary syndrome, pulmonary embolism, aortic dissection, tension pneumothorax, and esophageal rupture. Each has one clue and one test. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "EMERGENCY",
+    "title": "Chest pain: the big five",
+    "sub": "Rule out before discharge"
+   },
+   {
+    "type": "list",
+    "tag": "THE BIG FIVE",
+    "title": "Must not miss",
+    "sub": "",
+    "items": [
+     [
+      "ACS",
+      "Pressure, radiation, ECG and troponin"
+     ],
+     [
+      "Pulmonary embolism",
+      "Pleuritic pain, dyspnea, tachycardia, risk factors"
+     ],
+     [
+      "Aortic dissection",
+      "Tearing pain, pulse or BP difference"
+     ],
+     [
+      "Tension pneumothorax",
+      "Absent breath sounds, hypotension, tracheal deviation"
+     ],
+     [
+      "Esophageal rupture",
+      "Severe pain after vomiting or instrumentation"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FIRST TESTS",
+    "title": "Fast and cheap",
+    "sub": "",
+    "items": [
+     [
+      "ECG",
+      "Within 10 minutes for high risk chest pain"
+     ],
+     [
+      "Chest x-ray",
+      "Pneumothorax, mediastinum, free air"
+     ],
+     [
+      "Bedside ultrasound",
+      "Effusion, RV strain, lung sliding"
+     ],
+     [
+      "Troponin",
+      "Serial testing for ACS"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "NEXT STEP",
+    "title": "Based on suspicion",
+    "sub": "",
+    "items": [
+     [
+      "PE",
+      "Wells score, D-dimer, CT pulmonary angiography"
+     ],
+     [
+      "Dissection",
+      "ADD-RS, CT angiography"
+     ],
+     [
+      "Rupture",
+      "CT with contrast or esophagram"
+     ],
+     [
+      "Pneumothorax",
+      "Needle or chest tube if tension"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Run the big five first. Each one has a clue, a test, and a time sensitive fix."
+   }
+  ]
  }
 ]
