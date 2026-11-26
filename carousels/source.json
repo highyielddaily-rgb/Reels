@@ -1602,5 +1602,132 @@
     "text": "Osmolality, then volume status, then urine studies. Treat severe symptoms with 3 percent saline, correct slowly, and watch the sodium every few hours."
    }
   ]
+ },
+ {
+  "id": "hs-and-ts",
+  "palette": 3,
+  "caption": "The Hs and Ts are the reversible causes the AHA tells you to treat during every cardiac arrest: hypovolemia, hypoxia, hydrogen ion, hypo and hyperkalemia, hypothermia, tension pneumothorax, tamponade, toxins, and pulmonary and coronary thrombosis. Think of them every 2 minutes, especially in PEA and asystole. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ACLS",
+    "title": "The Hs and Ts",
+    "sub": "Reversible causes of cardiac arrest"
+   },
+   {
+    "type": "list",
+    "tag": "THE Hs, PART 1",
+    "title": "Volume, oxygen, acid",
+    "sub": "",
+    "items": [
+     [
+      "Hypovolemia",
+      "Fluids or blood, and look for the source of loss"
+     ],
+     [
+      "Hypoxia",
+      "Ventilate with high flow oxygen and confirm the airway is in the right place"
+     ],
+     [
+      "Hydrogen ion (acidosis)",
+      "Fix ventilation first, consider bicarbonate if the pH is severely low"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "THE Hs, PART 2",
+    "title": "Potassium and temperature",
+    "sub": "",
+    "items": [
+     [
+      "Hyperkalemia",
+      "IV calcium, insulin with dextrose, bicarbonate, albuterol"
+     ],
+     [
+      "Hypokalemia",
+      "Replace potassium, and check magnesium"
+     ],
+     [
+      "Hypothermia",
+      "Active internal rewarming. If core temp is under 30 C, limit shocks and hold drugs until warmer"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "THE Ts, PART 1",
+    "title": "Pressure and poisons",
+    "sub": "",
+    "items": [
+     [
+      "Tension pneumothorax",
+      "Decompress the chest, then place a chest tube"
+     ],
+     [
+      "Tamponade",
+      "Pericardiocentesis, guided by ultrasound"
+     ],
+     [
+      "Toxins",
+      "Treat the specific poison: naloxone if a pulse is present in opioid overdose, bicarbonate for sodium channel blockers, lipid emulsion for local anesthetic toxicity, digoxin Fab for digoxin"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "THE Ts, PART 2",
+    "title": "Thrombosis",
+    "sub": "",
+    "items": [
+     [
+      "Pulmonary thrombosis",
+      "Systemic thrombolysis if PE is known or suspected, continue CPR"
+     ],
+     [
+      "Coronary thrombosis",
+      "Emergent cath for STEMI after ROSC, consider ECPR in selected patients"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FIND THEM FAST",
+    "title": "Clues at the bedside",
+    "sub": "",
+    "items": [
+     [
+      "Peaked T waves, wide QRS",
+      "Hyperkalemia"
+     ],
+     [
+      "Osborn waves, cold patient",
+      "Hypothermia"
+     ],
+     [
+      "Dilated RV on echo, PEA",
+      "Pulmonary embolism"
+     ],
+     [
+      "Pericardial effusion on echo",
+      "Tamponade"
+     ],
+     [
+      "Absent lung sliding, tracheal shift",
+      "Tension pneumothorax"
+     ],
+     [
+      "Flat IVC",
+      "Hypovolemia"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Every 2 minutes, while compressions continue, ask which H or T this could be. PEA and asystole are where they matter most. Ultrasound and the ECG find most of them fast."
+   }
+  ]
  }
 ]
