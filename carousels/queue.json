@@ -256,22 +256,6 @@
   "posted_at": null
  },
  {
-  "id": "stroke-algorithm",
-  "caption": "Acute stroke in the ED: note last known well, get a stat noncontrast CT and a glucose, then decide on reperfusion. Thrombolysis works within 4.5 hours if there is no hemorrhage and BP is under 185/110. Thrombectomy is for large vessel occlusion. Hypoglycemia, postictal paralysis, and posterior circulation strokes are common traps. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
   "id": "pe-workup",
   "caption": "PE workup depends on stability and pretest probability. Unstable patients get bedside echo and treatment. Low risk patients who are PERC negative need no testing. Others get D dimer, then CTPA if positive, and high probability goes straight to CTPA. Anticoagulate if stable, lyse if massive. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -282,6 +266,22 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "stroke-algorithm",
+  "caption": "Acute stroke in the ED: note last known well, get a stat noncontrast CT and a glucose, then decide on reperfusion. Thrombolysis (tenecteplase or alteplase) works within 4.5 hours if there is no hemorrhage and BP is under 185/110, and the 2026 guideline allows selected patients up to 24 hours based on imaging. Thrombectomy is for large vessel occlusion. Hypoglycemia, postictal paralysis, and posterior circulation strokes are common traps. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-7.jpg"
   ],
   "posted": false,
   "media_id": null,

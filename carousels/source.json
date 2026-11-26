@@ -1206,7 +1206,7 @@
  {
   "id": "stroke-algorithm",
   "palette": 3,
-  "caption": "Acute stroke in the ED: note last known well, get a stat noncontrast CT and a glucose, then decide on reperfusion. Thrombolysis works within 4.5 hours if there is no hemorrhage and BP is under 185/110. Thrombectomy is for large vessel occlusion. Hypoglycemia, postictal paralysis, and posterior circulation strokes are common traps. Save the last slide.",
+  "caption": "Acute stroke in the ED: note last known well, get a stat noncontrast CT and a glucose, then decide on reperfusion. Thrombolysis (tenecteplase or alteplase) works within 4.5 hours if there is no hemorrhage and BP is under 185/110, and the 2026 guideline allows selected patients up to 24 hours based on imaging. Thrombectomy is for large vessel occlusion. Hypoglycemia, postictal paralysis, and posterior circulation strokes are common traps. Save the last slide.",
   "slides": [
    {
     "type": "cover",
@@ -1242,16 +1242,20 @@
    {
     "type": "list",
     "tag": "THROMBOLYSIS",
-    "title": "Alteplase or tenecteplase",
+    "title": "Tenecteplase or alteplase",
     "sub": "",
     "items": [
      [
-      "Window",
+      "Standard window",
       "Within 4.5 hours of last known well"
      ],
      [
+      "Extended window",
+      "Up to 24 hours in selected patients with salvageable brain on advanced imaging (2026 guideline)"
+     ],
+     [
       "Blood pressure",
-      "Must be under 185/110 before and 180/105 after"
+      "Under 185/110 before and under 180/105 after"
      ],
      [
       "Do not wait for labs",
@@ -1327,7 +1331,7 @@
     "type": "final",
     "tag": "SUMMARY",
     "title": "Key takeaway",
-    "text": "Last known well, CT, glucose, then lysis if eligible within 4.5 hours and thrombectomy for large vessel occlusion. Control the BP and do not miss the mimics."
+    "text": "Last known well, CT, glucose, then lysis if eligible (4.5 hours, longer in selected patients by imaging) and thrombectomy for large vessel occlusion. Control the BP and do not miss the mimics."
    }
   ]
  },
@@ -1575,7 +1579,7 @@
     "items": [
      [
       "Limit",
-      "Under 8 to 10 mEq/L in 24 hours"
+      "Under 8 to 10 mEq/L in 24 hours, 8 or less if high risk"
      ],
      [
       "Risk",
