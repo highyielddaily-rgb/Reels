@@ -1,0 +1,1602 @@
+[
+ {
+  "id": "hf-left-right",
+  "palette": 0,
+  "caption": "Left vs right heart failure. Left sided failure backs blood up into the lungs: dyspnea, orthopnea, crackles, S3. Right sided failure backs blood up into the body: JVD, liver congestion, leg edema. The most common cause of right heart failure is left heart failure. If you see JVD with clear lungs, think RV infarct, tamponade, PE, or lung disease. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "HEART FAILURE",
+    "title": "Left vs right heart failure",
+    "sub": "How to tell them apart at the bedside"
+   },
+   {
+    "type": "flow",
+    "tag": "LEFT SIDED",
+    "title": "The lungs back up",
+    "sub": "Blood damming up behind the pump",
+    "steps": [
+     [
+      "Left ventricle fails",
+      "Forward output falls and pressure builds behind it"
+     ],
+     [
+      "Pulmonary veins",
+      "Pressure backs up from the left atrium"
+     ],
+     [
+      "Pulmonary edema",
+      "Fluid crosses into the interstitium and alveoli"
+     ],
+     [
+      "Lung symptoms",
+      "Dyspnea, orthopnea, PND, crackles, S3"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "flow",
+    "tag": "RIGHT SIDED",
+    "title": "The body backs up",
+    "sub": "Same idea, different circuit",
+    "steps": [
+     [
+      "Right ventricle fails",
+      "Most often from left heart failure"
+     ],
+     [
+      "Systemic veins",
+      "Pressure builds in the vena cava"
+     ],
+     [
+      "Venous congestion",
+      "JVD, hepatomegaly, ascites"
+     ],
+     [
+      "Dependent edema",
+      "Leg and sacral swelling"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "compare",
+    "tag": "BEDSIDE",
+    "title": "Findings side by side",
+    "sub": "",
+    "cols": [
+     [
+      "Left sided",
+      [
+       "Dyspnea and orthopnea",
+       "Bibasilar crackles",
+       "S3 gallop",
+       "Pink frothy sputum",
+       "CXR: Kerley B lines, cephalization, effusions"
+      ]
+     ],
+     [
+      "Right sided",
+      [
+       "JVD",
+       "Hepatojugular reflux",
+       "Hepatomegaly and ascites",
+       "Peripheral edema",
+       "Lungs often clear if isolated"
+      ]
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "CAUSES",
+    "title": "What usually causes each",
+    "sub": "Isolated right failure points to the lungs or pulmonary vessels",
+    "items": [
+     [
+      "Left sided",
+      "Hypertension, ischemic heart disease, aortic stenosis, mitral regurgitation, cardiomyopathy"
+     ],
+     [
+      "Right sided",
+      "Left heart failure (most common), cor pulmonale from COPD, PE, pulmonary hypertension"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "ED PEARLS",
+    "title": "Do not get fooled",
+    "sub": "",
+    "items": [
+     [
+      "JVD with clear lungs",
+      "Think RV infarct, tamponade, PE, or tension pneumothorax"
+     ],
+     [
+      "Elevated BNP",
+      "Supports heart failure but also rises with PE, AF, and kidney disease"
+     ],
+     [
+      "Pulmonary edema in the ED",
+      "Look for the trigger: ischemia, arrhythmia, hypertensive surge, missed meds"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Left failure backs blood into the lungs: dyspnea, crackles, orthopnea. Right failure backs blood into the body: JVD, liver congestion, leg edema. Right failure with clear lungs? Hunt for a lung or pulmonary vessel cause, RV infarct, or tamponade."
+   }
+  ]
+ },
+ {
+  "id": "hf-compensation",
+  "palette": 1,
+  "caption": "The body tries to rescue a failing heart, and the rescue makes things worse. Low output triggers sympathetic and RAAS activation, which raises preload and afterload and drives remodeling. That is why ACE inhibitors, ARBs, ARNIs, beta blockers, and MRAs improve survival in HFrEF. Loop diuretics relieve congestion but do not improve mortality. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "HEART FAILURE",
+    "title": "Why the failing heart makes itself worse",
+    "sub": "The compensations that backfire"
+   },
+   {
+    "type": "flow",
+    "tag": "MECHANISM",
+    "title": "The vicious cycle",
+    "sub": "",
+    "steps": [
+     [
+      "Cardiac output falls",
+      "The pump weakens or stiffens"
+     ],
+     [
+      "Baroreceptors sense low pressure",
+      "The brain thinks the patient is volume depleted"
+     ],
+     [
+      "Sympathetic and RAAS activate",
+      "Vasoconstriction, salt and water retention"
+     ],
+     [
+      "Preload and afterload rise",
+      "The heart works harder against more load"
+     ],
+     [
+      "Remodeling",
+      "Dilation and fibrosis, a weaker pump"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "compare",
+    "tag": "TYPES",
+    "title": "HFrEF vs HFpEF",
+    "sub": "",
+    "cols": [
+     [
+      "HFrEF",
+      [
+       "EF 40 percent or less",
+       "Problem: contraction",
+       "MI, dilated cardiomyopathy",
+       "Dilated, thin walled ventricle"
+      ]
+     ],
+     [
+      "HFpEF",
+      [
+       "EF 50 percent or more",
+       "Problem: filling (stiff ventricle)",
+       "Hypertension, age, diabetes, obesity",
+       "Thick, stiff ventricle"
+      ]
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "WHY IT BACKFIRES",
+    "title": "Each rescue has a cost",
+    "sub": "",
+    "items": [
+     [
+      "Sympathetic drive",
+      "Raises heart rate and contractility, but also oxygen demand and arrhythmia risk"
+     ],
+     [
+      "RAAS",
+      "Angiotensin II constricts vessels and aldosterone holds salt: more preload and afterload"
+     ],
+     [
+      "Remodeling",
+      "Chronic stretch and angiotensin cause fibrosis and dilation"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "DRUGS",
+    "title": "Each drug breaks the cycle",
+    "sub": "",
+    "items": [
+     [
+      "ACE inhibitor, ARB, ARNI",
+      "Block angiotensin II: less afterload and remodeling"
+     ],
+     [
+      "Beta blocker",
+      "Blunts sympathetic overdrive"
+     ],
+     [
+      "MRA (spironolactone)",
+      "Blocks aldosterone: less fluid and fibrosis"
+     ],
+     [
+      "SGLT2 inhibitor",
+      "Fewer HF hospitalizations in HFrEF and HFpEF"
+     ],
+     [
+      "Loop diuretic",
+      "Relieves congestion, no mortality benefit"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "ED PEARLS",
+    "title": "Why do they decompensate",
+    "sub": "",
+    "items": [
+     [
+      "Triggers to hunt",
+      "Ischemia, AF with RVR, nonadherence, infection, uncontrolled hypertension, high sodium intake"
+     ],
+     [
+      "Warm or cold, wet or dry",
+      "Cold and wet patients are the sickest: low perfusion plus congestion"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Heart failure is a cycle: low output triggers sympathetic and RAAS activation, which adds load and remodeling. Modern therapy blocks the cycle. Diuretics relieve symptoms, neurohormonal blockers improve survival."
+   }
+  ]
+ },
+ {
+  "id": "asthma-attack",
+  "palette": 2,
+  "caption": "An asthma attack has two phases. The early phase starts in minutes when allergen cross links IgE on mast cells and releases histamine and leukotrienes. The late phase starts hours later as Th2 cytokines recruit eosinophils and cause edema and mucus. Albuterol relaxes smooth muscle, inhaled steroids calm inflammation. A silent chest or a normal CO2 in a tiring patient is a danger sign. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ASTHMA",
+    "title": "What happens inside an asthma attack",
+    "sub": "Early phase, late phase, and why drugs work"
+   },
+   {
+    "type": "flow",
+    "tag": "EARLY PHASE",
+    "title": "Minutes after exposure",
+    "sub": "Type I hypersensitivity",
+    "steps": [
+     [
+      "Allergen binds IgE",
+      "IgE sits on mast cells"
+     ],
+     [
+      "Mast cells degranulate",
+      "Histamine, leukotrienes, prostaglandins"
+     ],
+     [
+      "Smooth muscle contracts",
+      "Bronchospasm within minutes"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "flow",
+    "tag": "LATE PHASE",
+    "title": "Hours later",
+    "sub": "Why symptoms can return 4 to 8 hours later",
+    "steps": [
+     [
+      "Th2 cells release IL 4, IL 5, IL 13",
+      "Drive IgE and recruit eosinophils"
+     ],
+     [
+      "Eosinophils infiltrate",
+      "Release proteins that damage the airway"
+     ],
+     [
+      "Edema and mucus plugs",
+      "Airways narrow again and become hyperreactive"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY IT LOOKS THIS WAY",
+    "title": "Mechanism to bedside",
+    "sub": "",
+    "items": [
+     [
+      "Wheezing",
+      "Narrowed airways make turbulent flow, loudest on expiration"
+     ],
+     [
+      "Air trapping",
+      "Exhaling is hardest, so lungs hyperinflate and FEV1/FVC falls"
+     ],
+     [
+      "Sputum findings",
+      "Curschmann spirals (mucus casts) and Charcot Leyden crystals (eosinophil protein)"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "DRUGS BY TARGET",
+    "title": "Match the drug to the step",
+    "sub": "",
+    "items": [
+     [
+      "Albuterol",
+      "Beta 2 agonist: relaxes airway smooth muscle fast"
+     ],
+     [
+      "Ipratropium",
+      "Blocks muscarinic receptors: less vagal bronchoconstriction"
+     ],
+     [
+      "Steroids",
+      "Calm the eosinophilic inflammation"
+     ],
+     [
+      "Montelukast",
+      "Blocks the leukotriene receptor"
+     ],
+     [
+      "IV magnesium",
+      "Smooth muscle relaxation in severe attacks"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "ED WARNING SIGNS",
+    "title": "When the attack is winning",
+    "sub": "",
+    "items": [
+     [
+      "Silent chest",
+      "Little air moving is ominous, not reassuring"
+     ],
+     [
+      "Normal or rising pCO2",
+      "Early asthma hyperventilates, so a normal CO2 means fatigue"
+     ],
+     [
+      "Cannot speak, altered mental status",
+      "Severe or impending respiratory failure"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Early phase is mast cells and bronchospasm, late phase is eosinophils and inflammation. Beta agonists open the airway now, steroids calm the inflammation. A quiet chest and a normal CO2 in a struggling patient mean trouble."
+   }
+  ]
+ },
+ {
+  "id": "dka-mechanism",
+  "palette": 3,
+  "caption": "DKA starts with insulin deficiency. Glucose cannot enter cells while fat breakdown makes ketoacids, causing an anion gap metabolic acidosis. Osmotic diuresis dehydrates the patient and depletes total body potassium even if the serum level looks normal or high. Fluids first, check potassium, then insulin. If K is under 3.3, replace before starting insulin. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ENDOCRINE",
+    "title": "How DKA happens",
+    "sub": "And the potassium trap"
+   },
+   {
+    "type": "flow",
+    "tag": "MECHANISM",
+    "title": "From no insulin to acidosis",
+    "sub": "",
+    "steps": [
+     [
+      "Insulin deficiency",
+      "Glucose cannot enter cells"
+     ],
+     [
+      "Liver makes more glucose",
+      "Plus fat breakdown into free fatty acids"
+     ],
+     [
+      "Ketone production",
+      "Beta hydroxybutyrate and acetoacetate"
+     ],
+     [
+      "Ketoacids accumulate",
+      "Anion gap metabolic acidosis"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "flow",
+    "tag": "DEHYDRATION",
+    "title": "Why they are so dry",
+    "sub": "",
+    "steps": [
+     [
+      "Hyperglycemia passes renal threshold",
+      "Glucose spills into urine"
+     ],
+     [
+      "Osmotic diuresis",
+      "Water pulled out with glucose"
+     ],
+     [
+      "Loss of Na, K, phosphate",
+      "Total body potassium is depleted"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "POTASSIUM TRAP",
+    "title": "Serum K can lie to you",
+    "sub": "",
+    "items": [
+     [
+      "Serum K may look normal or high",
+      "Acidosis and insulin lack shift K out of cells"
+     ],
+     [
+      "Insulin pushes K back in",
+      "Serum K can crash on treatment"
+     ],
+     [
+      "Check K before insulin",
+      "If K is under 3.3, replace first"
+     ]
+    ]
+   },
+   {
+    "type": "flow",
+    "tag": "TREATMENT ORDER",
+    "title": "What goes first",
+    "sub": "",
+    "steps": [
+     [
+      "Isotonic fluids",
+      "Restore volume"
+     ],
+     [
+      "Check and replace potassium",
+      "Before insulin if low"
+     ],
+     [
+      "Insulin infusion",
+      "Shuts off ketone production"
+     ],
+     [
+      "Add dextrose near glucose 200",
+      "So insulin can keep running until the gap closes"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "DO NOT MISS",
+    "title": "In the ED",
+    "sub": "",
+    "items": [
+     [
+      "Find the trigger",
+      "Infection, MI, missed insulin, new onset, SGLT2 inhibitor use (euglycemic DKA)"
+     ],
+     [
+      "The goal is a closed gap",
+      "Not just a normal glucose"
+     ],
+     [
+      "Watch the brain",
+      "Cerebral edema is rare but mostly seen in children"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "No insulin means no glucose uptake and runaway ketone production. Treat the dehydration, respect the potassium, and use insulin until the anion gap closes."
+   }
+  ]
+ },
+ {
+  "id": "nephrotic-nephritic",
+  "palette": 4,
+  "caption": "Nephrotic syndrome is a protein leak: proteinuria over 3.5 g/day, low albumin, edema, high lipids. Nephritic syndrome is glomerular inflammation: hematuria with RBC casts, hypertension, and azotemia. The classic nephrotic causes are minimal change (kids), FSGS, membranous, and diabetes. Classic nephritic causes are poststreptococcal GN, IgA nephropathy, and RPGN. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "RENAL",
+    "title": "Nephrotic vs nephritic",
+    "sub": "Protein leak vs inflamed glomeruli"
+   },
+   {
+    "type": "compare",
+    "tag": "COMPARE",
+    "title": "Side by side",
+    "sub": "",
+    "cols": [
+     [
+      "Nephrotic",
+      [
+       "Proteinuria over 3.5 g/day",
+       "Low albumin",
+       "Generalized edema",
+       "Hyperlipidemia, fatty casts",
+       "Normal or mild BP change"
+      ]
+     ],
+     [
+      "Nephritic",
+      [
+       "Hematuria, RBC casts",
+       "Hypertension",
+       "Azotemia, oliguria",
+       "Mild to moderate proteinuria",
+       "Periorbital edema"
+      ]
+     ]
+    ]
+   },
+   {
+    "type": "flow",
+    "tag": "NEPHROTIC",
+    "title": "The leak",
+    "sub": "",
+    "steps": [
+     [
+      "Podocyte or membrane damage",
+      "The filter loses its charge or structure"
+     ],
+     [
+      "Massive protein loss",
+      "Albumin, antithrombin III, immunoglobulins"
+     ],
+     [
+      "Low oncotic pressure",
+      "Edema"
+     ],
+     [
+      "Liver makes more lipoproteins",
+      "Hyperlipidemia"
+     ],
+     [
+      "Complications",
+      "Clots (loss of antithrombin III) and infections"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "flow",
+    "tag": "NEPHRITIC",
+    "title": "The inflammation",
+    "sub": "",
+    "steps": [
+     [
+      "Immune injury to glomerulus",
+      "Immune complexes or antibodies"
+     ],
+     [
+      "Capillary wall inflamed",
+      "RBCs leak and GFR falls"
+     ],
+     [
+      "Salt and water retention",
+      "Hypertension and edema"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "NEPHROTIC CAUSES",
+    "title": "Know these four",
+    "sub": "",
+    "items": [
+     [
+      "Minimal change",
+      "Most common in children, foot process effacement, steroid responsive"
+     ],
+     [
+      "FSGS",
+      "Adults, HIV, heroin, obesity"
+     ],
+     [
+      "Membranous nephropathy",
+      "Adults, anti PLA2R, spike and dome"
+     ],
+     [
+      "Diabetic nephropathy",
+      "Kimmelstiel Wilson nodules"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "NEPHRITIC CAUSES",
+    "title": "Know these three",
+    "sub": "",
+    "items": [
+     [
+      "Poststreptococcal GN",
+      "Weeks after strep, low C3, lumpy bumpy immunofluorescence"
+     ],
+     [
+      "IgA nephropathy",
+      "Hematuria within days of an upper respiratory infection"
+     ],
+     [
+      "RPGN",
+      "Crescents on biopsy, anti GBM, ANCA, or immune complex"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Nephrotic means the filter leaks protein: edema, low albumin, clot risk. Nephritic means the filter is inflamed: blood in the urine, hypertension, rising creatinine."
+   }
+  ]
+ },
+ {
+  "id": "shock-types",
+  "palette": 5,
+  "caption": "Shock is inadequate oxygen delivery. BP equals cardiac output times systemic vascular resistance. Hypovolemic shock is cold with low filling pressures, cardiogenic is cold and wet, distributive is warm with low SVR, and obstructive comes from PE, tamponade, or tension pneumothorax. Match the type to the fix. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "CRITICAL CARE",
+    "title": "The four types of shock",
+    "sub": "Hemodynamics make it simple"
+   },
+   {
+    "type": "flow",
+    "tag": "BASICS",
+    "title": "Why pressure falls",
+    "sub": "",
+    "steps": [
+     [
+      "Shock",
+      "Perfusion does not meet oxygen demand"
+     ],
+     [
+      "Cardiac output",
+      "Heart rate times stroke volume"
+     ],
+     [
+      "Blood pressure",
+      "Cardiac output times SVR"
+     ],
+     [
+      "Four ways to fail",
+      "Volume, pump, vessels, or obstruction"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "HEMODYNAMICS",
+    "title": "The pattern for each type",
+    "sub": "",
+    "items": [
+     [
+      "Hypovolemic",
+      "CO down, SVR up, wedge down. Cold and dry"
+     ],
+     [
+      "Cardiogenic",
+      "CO down, SVR up, wedge up. Cold and wet"
+     ],
+     [
+      "Distributive",
+      "SVR down, CO usually up in sepsis. Warm"
+     ],
+     [
+      "Obstructive",
+      "CO down, SVR up, wedge depends on the cause"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "CAUSES",
+    "title": "What to think of",
+    "sub": "",
+    "items": [
+     [
+      "Hypovolemic",
+      "Hemorrhage, GI losses, burns"
+     ],
+     [
+      "Cardiogenic",
+      "MI, arrhythmia, acute valve failure"
+     ],
+     [
+      "Distributive",
+      "Sepsis, anaphylaxis, neurogenic, adrenal crisis"
+     ],
+     [
+      "Obstructive",
+      "PE, tamponade, tension pneumothorax"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FIRST MOVE",
+    "title": "Fix the mechanism",
+    "sub": "",
+    "items": [
+     [
+      "Hypovolemic",
+      "Stop the loss, give blood for hemorrhage"
+     ],
+     [
+      "Cardiogenic",
+      "Treat the cause, inotrope or pressor, careful with fluids"
+     ],
+     [
+      "Distributive",
+      "Fluids, antibiotics in sepsis, norepinephrine, epinephrine for anaphylaxis"
+     ],
+     [
+      "Obstructive",
+      "Decompress, drain, or lyse the obstruction"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "BEDSIDE CLUES",
+    "title": "Use your eyes and ultrasound",
+    "sub": "",
+    "items": [
+     [
+      "Warm extremities with low BP",
+      "Distributive until proven otherwise"
+     ],
+     [
+      "JVD with hypotension",
+      "Cardiogenic or obstructive"
+     ],
+     [
+      "Flat IVC",
+      "Hypovolemia or distributive"
+     ],
+     [
+      "Plethoric IVC",
+      "Cardiogenic or obstructive"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Ask four questions: is there enough volume, is the pump working, are the vessels tight or leaky, and is something blocking flow. The answer picks the treatment."
+   }
+  ]
+ },
+ {
+  "id": "stemi-algorithm",
+  "palette": 0,
+  "caption": "STEMI in the ED: ECG within 10 minutes of arrival, activate the cath lab on ST elevation in two contiguous leads, give aspirin and an anticoagulant, and reperfuse. Primary PCI is preferred if it can happen within 120 minutes of first medical contact. Otherwise give fibrinolytics within 30 minutes and transfer. Inferior STEMI: get a right sided ECG before nitrates. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "CARDIOLOGY",
+    "title": "STEMI algorithm",
+    "sub": "From ECG to reperfusion"
+   },
+   {
+    "type": "flow",
+    "tag": "FIRST 10 MINUTES",
+    "title": "The sequence",
+    "sub": "",
+    "steps": [
+     [
+      "Chest pain arrives",
+      "Get an ECG within 10 minutes"
+     ],
+     [
+      "ST elevation in 2 contiguous leads",
+      "STEMI criteria met"
+     ],
+     [
+      "Activate the cath lab",
+      "Do not wait for troponin"
+     ],
+     [
+      "Aspirin 162 to 325 mg chewed",
+      "Plus an anticoagulant per protocol"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "REPERFUSION",
+    "title": "One decision",
+    "sub": "",
+    "items": [
+     [
+      "Can PCI happen within 120 minutes?",
+      "Of first medical contact"
+     ],
+     [
+      "Yes",
+      "Primary PCI, goal 90 minutes door to device"
+     ],
+     [
+      "No",
+      "Fibrinolytics within 30 minutes, then transfer"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "LOCALIZE",
+    "title": "Leads map to arteries",
+    "sub": "",
+    "items": [
+     [
+      "II, III, aVF",
+      "Inferior: right coronary artery"
+     ],
+     [
+      "V1 to V4",
+      "Anterior: left anterior descending"
+     ],
+     [
+      "I, aVL, V5, V6",
+      "Lateral: left circumflex"
+     ],
+     [
+      "ST depression V1 to V3",
+      "Posterior: confirm with V7 to V9"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "INFERIOR TRAPS",
+    "title": "RCA territory",
+    "sub": "",
+    "items": [
+     [
+      "Get a right sided ECG",
+      "V4R looks for RV infarct"
+     ],
+     [
+      "RV infarct",
+      "Preload dependent: avoid nitrates, give fluids"
+     ],
+     [
+      "Bradycardia and AV block",
+      "The RCA supplies the AV node"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FIBRINOLYTIC NO GOES",
+    "title": "Absolute contraindications",
+    "sub": "",
+    "items": [
+     [
+      "Any prior intracranial hemorrhage",
+      ""
+     ],
+     [
+      "Ischemic stroke within 3 months",
+      ""
+     ],
+     [
+      "Suspected aortic dissection or active bleeding",
+      ""
+     ],
+     [
+      "Intracranial tumor or vascular malformation",
+      ""
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "ECG in 10 minutes, activate the cath lab, aspirin and heparin, and choose PCI or lytics by the 120 minute rule. In inferior STEMI check the right side before giving nitrates."
+   }
+  ]
+ },
+ {
+  "id": "hyperkalemia-plan",
+  "palette": 1,
+  "caption": "Hyperkalemia with ECG changes is an emergency. Step 1: IV calcium to stabilize the heart. Step 2: shift potassium into cells with insulin and dextrose, albuterol, and bicarbonate if acidotic. Step 3: remove it with loop diuretics, binders, or dialysis. Calcium does not lower potassium, and shifts wear off, so plan for removal. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "EMERGENCY",
+    "title": "Hyperkalemia: the three step plan",
+    "sub": "Stabilize, shift, remove"
+   },
+   {
+    "type": "flow",
+    "tag": "RECOGNIZE",
+    "title": "Real or fake",
+    "sub": "",
+    "steps": [
+     [
+      "Potassium is high",
+      "Hemolysis can cause a false high"
+     ],
+     [
+      "Look at the ECG",
+      "Peaked T waves, wide QRS, flat P waves, sine wave"
+     ],
+     [
+      "Real with ECG changes",
+      "Treat now, do not wait for a repeat"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "flow",
+    "tag": "THE PLAN",
+    "title": "Three steps",
+    "sub": "",
+    "steps": [
+     [
+      "1. Stabilize the heart",
+      "IV calcium gluconate or chloride"
+     ],
+     [
+      "2. Shift K into cells",
+      "Insulin with dextrose, albuterol, bicarbonate if acidotic"
+     ],
+     [
+      "3. Remove K from the body",
+      "Loop diuretic, binders, dialysis"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY EACH WORKS",
+    "title": "Mechanism",
+    "sub": "",
+    "items": [
+     [
+      "Calcium",
+      "Restores the gap to threshold potential and calms the myocardium"
+     ],
+     [
+      "Insulin and dextrose",
+      "Drive Na K ATPase and move K into cells (10 units regular insulin IV)"
+     ],
+     [
+      "Albuterol",
+      "Beta 2 stimulation of the pump (10 to 20 mg nebulized)"
+     ],
+     [
+      "Bicarbonate",
+      "Helps mainly in metabolic acidosis"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "TIMING",
+    "title": "Why you still need step 3",
+    "sub": "",
+    "items": [
+     [
+      "Calcium",
+      "Works in minutes, lasts 30 to 60 minutes"
+     ],
+     [
+      "Insulin and albuterol",
+      "Work in 15 to 30 minutes, last a few hours"
+     ],
+     [
+      "Dialysis",
+      "Definitive when kidneys cannot clear it"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FIND THE CAUSE",
+    "title": "Do not stop at the number",
+    "sub": "",
+    "items": [
+     [
+      "Kidney injury or CKD",
+      "The most common cause"
+     ],
+     [
+      "Medications",
+      "ACE inhibitors, ARBs, spironolactone, trimethoprim, NSAIDs"
+     ],
+     [
+      "Cell breakdown",
+      "Rhabdomyolysis, tumor lysis, hemolysis"
+     ],
+     [
+      "Acidosis and DKA",
+      "Shift K out of cells"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Calcium protects the heart, insulin and albuterol hide the potassium, and diuretics, binders, or dialysis get rid of it. Watch for hypoglycemia after insulin."
+   }
+  ]
+ },
+ {
+  "id": "anion-gap",
+  "palette": 2,
+  "caption": "Metabolic acidosis starts with the anion gap: sodium minus chloride minus bicarbonate. A high gap means unmeasured acids: methanol, uremia, DKA, propylene glycol or isoniazid or iron, lactate, ethylene glycol, salicylates. A normal gap means bicarbonate loss or chloride gain: diarrhea, renal tubular acidosis, saline. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ACID BASE",
+    "title": "Anion gap metabolic acidosis",
+    "sub": "High gap vs non gap"
+   },
+   {
+    "type": "flow",
+    "tag": "APPROACH",
+    "title": "Two branches",
+    "sub": "",
+    "steps": [
+     [
+      "Metabolic acidosis",
+      "Low pH and low bicarbonate"
+     ],
+     [
+      "Calculate the anion gap",
+      "Sodium minus chloride minus bicarbonate"
+     ],
+     [
+      "Gap elevated",
+      "Unmeasured acids are present"
+     ],
+     [
+      "Gap normal",
+      "Bicarbonate lost or chloride gained"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "HIGH GAP",
+    "title": "MUDPILES",
+    "sub": "",
+    "items": [
+     [
+      "M, U, D",
+      "Methanol, uremia, DKA and other ketoacidosis"
+     ],
+     [
+      "P, I",
+      "Propylene glycol, isoniazid or iron"
+     ],
+     [
+      "L",
+      "Lactate: shock, seizures, metformin"
+     ],
+     [
+      "E, S",
+      "Ethylene glycol, salicylates"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "NON GAP",
+    "title": "Bicarbonate gone",
+    "sub": "",
+    "items": [
+     [
+      "Diarrhea",
+      "GI bicarbonate loss"
+     ],
+     [
+      "Renal tubular acidosis",
+      "Kidney cannot make or reabsorb bicarbonate"
+     ],
+     [
+      "Large volume saline",
+      "Chloride load and dilution"
+     ],
+     [
+      "Acetazolamide",
+      "Blocks bicarbonate reabsorption"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "TOXIC ALCOHOLS",
+    "title": "Clues and treatment",
+    "sub": "Osmolar gap is high early and falls as the parent alcohol is metabolized",
+    "items": [
+     [
+      "Ethylene glycol",
+      "Calcium oxalate crystals, AKI, hypocalcemia"
+     ],
+     [
+      "Methanol",
+      "Vision loss, optic nerve damage"
+     ],
+     [
+      "Both",
+      "Fomepizole, and dialysis if severe"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "SALICYLATE",
+    "title": "A mixed picture",
+    "sub": "",
+    "items": [
+     [
+      "Two disorders at once",
+      "Respiratory alkalosis plus anion gap metabolic acidosis"
+     ],
+     [
+      "Classic clues",
+      "Tinnitus, tachypnea, fever, altered mental status"
+     ],
+     [
+      "Treat",
+      "Sodium bicarbonate and dialysis in severe cases. Be careful with intubation"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Calculate the gap first. High gap means an unmeasured acid, so think MUDPILES. Normal gap means lost bicarbonate, so think diarrhea and renal tubular acidosis."
+   }
+  ]
+ },
+ {
+  "id": "stroke-algorithm",
+  "palette": 3,
+  "caption": "Acute stroke in the ED: note last known well, get a stat noncontrast CT and a glucose, then decide on reperfusion. Thrombolysis works within 4.5 hours if there is no hemorrhage and BP is under 185/110. Thrombectomy is for large vessel occlusion. Hypoglycemia, postictal paralysis, and posterior circulation strokes are common traps. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "NEUROLOGY",
+    "title": "Acute ischemic stroke algorithm",
+    "sub": "Time is brain"
+   },
+   {
+    "type": "flow",
+    "tag": "FIRST STEPS",
+    "title": "Fast and in order",
+    "sub": "",
+    "steps": [
+     [
+      "Stroke symptoms",
+      "Note the last known well time"
+     ],
+     [
+      "Stat noncontrast CT head",
+      "Rule out hemorrhage"
+     ],
+     [
+      "Check glucose",
+      "Hypoglycemia mimics stroke"
+     ],
+     [
+      "No hemorrhage",
+      "Move to reperfusion decisions"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "THROMBOLYSIS",
+    "title": "Alteplase or tenecteplase",
+    "sub": "",
+    "items": [
+     [
+      "Window",
+      "Within 4.5 hours of last known well"
+     ],
+     [
+      "Blood pressure",
+      "Must be under 185/110 before and 180/105 after"
+     ],
+     [
+      "Do not wait for labs",
+      "Except glucose, and INR if on warfarin"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "EXCLUSIONS",
+    "title": "Do not give lytics if",
+    "sub": "",
+    "items": [
+     [
+      "Hemorrhage on CT",
+      ""
+     ],
+     [
+      "Major surgery, trauma, or stroke within 3 months",
+      ""
+     ],
+     [
+      "Active bleeding or platelets under 100,000",
+      ""
+     ],
+     [
+      "DOAC within 48 hours or INR over 1.7",
+      ""
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "THROMBECTOMY",
+    "title": "Large vessel occlusion",
+    "sub": "",
+    "items": [
+     [
+      "Target",
+      "ICA or proximal MCA on CT angiography"
+     ],
+     [
+      "Window",
+      "Up to 6 hours, up to 24 hours in selected patients"
+     ],
+     [
+      "Combine",
+      "Give lytics too when eligible"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "TRAPS",
+    "title": "Look alikes and misses",
+    "sub": "",
+    "items": [
+     [
+      "Hypoglycemia",
+      "Always check the glucose"
+     ],
+     [
+      "Seizure with Todd paralysis",
+      "Postictal weakness improves"
+     ],
+     [
+      "Posterior circulation stroke",
+      "Vertigo and ataxia can look benign. Use a careful exam and HINTS"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Last known well, CT, glucose, then lysis if eligible within 4.5 hours and thrombectomy for large vessel occlusion. Control the BP and do not miss the mimics."
+   }
+  ]
+ },
+ {
+  "id": "pe-workup",
+  "palette": 4,
+  "caption": "PE workup depends on stability and pretest probability. Unstable patients get bedside echo and treatment. Low risk patients who are PERC negative need no testing. Others get D dimer, then CTPA if positive, and high probability goes straight to CTPA. Anticoagulate if stable, lyse if massive. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "PULMONARY",
+    "title": "Pulmonary embolism workup",
+    "sub": "From mechanism to management"
+   },
+   {
+    "type": "flow",
+    "tag": "MECHANISM",
+    "title": "What the clot does",
+    "sub": "",
+    "steps": [
+     [
+      "Clot in a pulmonary artery",
+      "Usually from a leg DVT"
+     ],
+     [
+      "Dead space and V/Q mismatch",
+      "Ventilated but not perfused"
+     ],
+     [
+      "Hypoxemia",
+      "Tachypnea and pleuritic pain"
+     ],
+     [
+      "RV afterload rises",
+      "RV strain and failure"
+     ],
+     [
+      "Obstructive shock",
+      "Hypotension in massive PE"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "TESTING",
+    "title": "Risk stratify first",
+    "sub": "",
+    "items": [
+     [
+      "Unstable",
+      "Bedside echo for RV strain, treat if suspected"
+     ],
+     [
+      "Low probability",
+      "PERC negative: stop"
+     ],
+     [
+      "Low or intermediate",
+      "D dimer, then CTPA if positive"
+     ],
+     [
+      "High probability",
+      "CTPA directly"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "PERC RULE",
+    "title": "All must be absent",
+    "sub": "Use only if pretest probability is low",
+    "items": [
+     [
+      "Age 50 or older, HR 100 or more, SpO2 under 95 percent",
+      ""
+     ],
+     [
+      "Unilateral leg swelling, hemoptysis, recent surgery or trauma",
+      ""
+     ],
+     [
+      "Prior PE or DVT, estrogen use",
+      ""
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "TREATMENT",
+    "title": "Match to severity",
+    "sub": "",
+    "items": [
+     [
+      "Stable",
+      "Anticoagulation with heparin or a DOAC"
+     ],
+     [
+      "Massive PE",
+      "Systemic thrombolysis if no contraindication"
+     ],
+     [
+      "Cannot lyse",
+      "Catheter directed therapy or embolectomy"
+     ],
+     [
+      "IVC filter",
+      "Only if anticoagulation is contraindicated"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "CLUES AND TRAPS",
+    "title": "Details that matter",
+    "sub": "",
+    "items": [
+     [
+      "ECG",
+      "Sinus tachycardia is most common, S1Q3T3 is rare"
+     ],
+     [
+      "Troponin or BNP",
+      "Elevation marks RV strain and higher risk"
+     ],
+     [
+      "Pregnancy",
+      "D dimer rises normally, use a pregnancy specific pathway"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Stability first, then probability. Rule out with PERC or D dimer when low risk, image when not, anticoagulate, and lyse the unstable."
+   }
+  ]
+ },
+ {
+  "id": "hyponatremia",
+  "palette": 5,
+  "caption": "Hyponatremia: check serum osmolality first, then volume status, then urine sodium and osmolality. SIADH is a euvolemic cause with high urine sodium. Severe symptoms like seizures get 3 percent saline in boluses. Correct slowly: overcorrection causes osmotic demyelination. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "FLUIDS AND ELECTROLYTES",
+    "title": "Hyponatremia approach",
+    "sub": "Osmolality, volume, then cause"
+   },
+   {
+    "type": "flow",
+    "tag": "APPROACH",
+    "title": "Three questions",
+    "sub": "",
+    "steps": [
+     [
+      "Sodium under 135",
+      "Check serum osmolality"
+     ],
+     [
+      "Low osmolality means true hyponatremia",
+      "Normal or high suggests glucose, mannitol, or lab artifact"
+     ],
+     [
+      "Assess volume status",
+      "Hypovolemic, euvolemic, or hypervolemic"
+     ],
+     [
+      "Urine sodium and osmolality",
+      "Sort the cause"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "BY VOLUME",
+    "title": "Causes by group",
+    "sub": "",
+    "items": [
+     [
+      "Hypovolemic",
+      "Vomiting, diarrhea, diuretics, third spacing, adrenal insufficiency"
+     ],
+     [
+      "Euvolemic",
+      "SIADH, hypothyroidism, adrenal insufficiency, primary polydipsia, low solute intake"
+     ],
+     [
+      "Hypervolemic",
+      "Heart failure, cirrhosis, nephrotic syndrome"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "SIADH",
+    "title": "The classic euvolemic cause",
+    "sub": "",
+    "items": [
+     [
+      "Mechanism",
+      "ADH keeps working despite low osmolality: free water retained"
+     ],
+     [
+      "Labs",
+      "Low serum osmolality, urine osmolality over 100, urine sodium over 40"
+     ],
+     [
+      "Causes",
+      "Small cell lung cancer, CNS disease, pneumonia, SSRIs, carbamazepine"
+     ],
+     [
+      "Treat",
+      "Fluid restriction, salt tablets, tolvaptan"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "ED THREAT",
+    "title": "Symptoms drive treatment",
+    "sub": "",
+    "items": [
+     [
+      "Mild",
+      "Nausea, headache, weakness"
+     ],
+     [
+      "Severe",
+      "Seizure, coma, herniation from cerebral edema"
+     ],
+     [
+      "Severe symptoms",
+      "3 percent saline bolus (100 to 150 mL), repeat up to 3 times"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "CORRECTION LIMITS",
+    "title": "Do not overshoot",
+    "sub": "",
+    "items": [
+     [
+      "Limit",
+      "Under 8 to 10 mEq/L in 24 hours"
+     ],
+     [
+      "Risk",
+      "Osmotic demyelination: dysarthria, dysphagia, quadriparesis days later"
+     ],
+     [
+      "Highest risk",
+      "Alcohol use disorder, malnutrition, hypokalemia, chronic hyponatremia"
+     ],
+     [
+      "If overshooting",
+      "D5W and desmopressin"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Osmolality, then volume status, then urine studies. Treat severe symptoms with 3 percent saline, correct slowly, and watch the sodium every few hours."
+   }
+  ]
+ }
+]
