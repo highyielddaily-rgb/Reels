@@ -144,22 +144,6 @@
   "posted_at": null
  },
  {
-  "id": "asthma-attack",
-  "caption": "An asthma attack has two phases. The early phase starts in minutes when allergen cross links IgE on mast cells and releases histamine and leukotrienes. The late phase starts hours later as Th2 cytokines recruit eosinophils and cause edema and mucus. Albuterol relaxes smooth muscle, inhaled steroids calm inflammation. A silent chest or a normal CO2 in a tiring patient is a danger sign. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
   "id": "nephrotic-nephritic",
   "caption": "Nephrotic syndrome is a protein leak: proteinuria over 3.5 g/day, low albumin, edema, high lipids. Nephritic syndrome is glomerular inflammation: hematuria with RBC casts, hypertension, and azotemia. The classic nephrotic causes are minimal change (kids), FSGS, membranous, and diabetes. Classic nephritic causes are poststreptococcal GN, IgA nephropathy, and RPGN. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -170,22 +154,6 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
-  "id": "shock-types",
-  "caption": "Shock is inadequate oxygen delivery. BP equals cardiac output times systemic vascular resistance. Hypovolemic shock is cold with low filling pressures, cardiogenic is cold and wet, distributive is warm with low SVR, and obstructive comes from PE, tamponade, or tension pneumothorax. Match the type to the fix. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-7.jpg"
   ],
   "posted": false,
   "media_id": null,
@@ -298,6 +266,38 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "asthma-attack",
+  "caption": "An asthma attack has two phases. The early phase starts in minutes when allergen cross links IgE on mast cells and releases histamine and leukotrienes. The late phase starts hours later as Th2 cytokines recruit eosinophils and cause edema and mucus. Albuterol relaxes smooth muscle, inhaled steroids calm inflammation. A silent chest or a normal CO2 in a tiring patient is a danger sign. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "shock-types",
+  "caption": "Shock is inadequate oxygen delivery. BP equals cardiac output times systemic vascular resistance. Hypovolemic shock is cold with low filling pressures, cardiogenic is cold and wet, distributive is warm with low SVR, and obstructive comes from PE, tamponade, or tension pneumothorax. Match the type to the fix. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-7.jpg"
   ],
   "posted": false,
   "media_id": null,

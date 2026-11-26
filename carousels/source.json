@@ -306,7 +306,7 @@
     "type": "flow",
     "tag": "LATE PHASE",
     "title": "Hours later",
-    "sub": "Why symptoms can return 4 to 8 hours later",
+    "sub": "The late response peaks about 6 to 8 hours after exposure",
     "steps": [
      [
       "Th2 cells release IL 4, IL 5, IL 13",
@@ -726,7 +726,7 @@
      ],
      [
       "Obstructive",
-      "CO down, SVR up, wedge depends on the cause"
+      "CO down, SVR up or normal, wedge depends on the cause"
      ]
     ]
    },
