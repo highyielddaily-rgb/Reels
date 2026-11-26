@@ -402,7 +402,7 @@
  {
   "id": "dka-mechanism",
   "palette": 3,
-  "caption": "DKA starts with insulin deficiency. Glucose cannot enter cells while fat breakdown makes ketoacids, causing an anion gap metabolic acidosis. Osmotic diuresis dehydrates the patient and depletes total body potassium even if the serum level looks normal or high. Fluids first, check potassium, then insulin. If K is under 3.3, replace before starting insulin. Save the last slide.",
+  "caption": "DKA starts with insulin deficiency. Glucose cannot enter cells while fat breakdown makes ketoacids, causing an anion gap metabolic acidosis. Osmotic diuresis dehydrates the patient and depletes total body potassium even if the serum level looks normal or high. Fluids first, check potassium, then insulin. If potassium is low, replace it before starting insulin. Save the last slide.",
   "slides": [
    {
     "type": "cover",
@@ -472,7 +472,7 @@
      ],
      [
       "Check K before insulin",
-      "If K is under 3.3, replace first"
+      "If K is low, replace it first, then start insulin"
      ]
     ]
    },
@@ -495,8 +495,8 @@
       "Shuts off ketone production"
      ],
      [
-      "Add dextrose near glucose 200",
-      "So insulin can keep running until the gap closes"
+      "Add dextrose when glucose falls below 250",
+      "So insulin can keep running until ketosis resolves"
      ]
     ],
     "end": true
@@ -813,7 +813,7 @@
  {
   "id": "stemi-algorithm",
   "palette": 0,
-  "caption": "STEMI in the ED: ECG within 10 minutes of arrival, activate the cath lab on ST elevation in two contiguous leads, give aspirin and an anticoagulant, and reperfuse. Primary PCI is preferred if it can happen within 120 minutes of first medical contact. Otherwise give fibrinolytics within 30 minutes and transfer. Inferior STEMI: get a right sided ECG before nitrates. Save the last slide.",
+  "caption": "STEMI in the ED: ECG within 10 minutes of first medical contact, activate the cath lab on ST elevation in two contiguous leads, give aspirin and an anticoagulant, and reperfuse. Primary PCI is preferred if it can happen within 120 minutes of first medical contact. Otherwise give fibrinolytics within 30 minutes and transfer. Inferior STEMI: get a right sided ECG before nitrates. Save the last slide.",
   "slides": [
    {
     "type": "cover",
@@ -829,7 +829,7 @@
     "steps": [
      [
       "Chest pain arrives",
-      "Get an ECG within 10 minutes"
+      "Get an ECG within 10 minutes of first medical contact"
      ],
      [
       "ST elevation in 2 contiguous leads",
@@ -925,11 +925,11 @@
       ""
      ],
      [
-      "Suspected aortic dissection or active bleeding",
+      "Suspected aortic dissection, active bleeding, or BP over 180/110 unresponsive to treatment",
       ""
      ],
      [
-      "Intracranial tumor or vascular malformation",
+      "Malignant intracranial tumor or known cerebrovascular malformation",
       ""
      ]
     ]

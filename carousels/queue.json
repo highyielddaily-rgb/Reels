@@ -160,22 +160,6 @@
   "posted_at": null
  },
  {
-  "id": "dka-mechanism",
-  "caption": "DKA starts with insulin deficiency. Glucose cannot enter cells while fat breakdown makes ketoacids, causing an anion gap metabolic acidosis. Osmotic diuresis dehydrates the patient and depletes total body potassium even if the serum level looks normal or high. Fluids first, check potassium, then insulin. If K is under 3.3, replace before starting insulin. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
   "id": "nephrotic-nephritic",
   "caption": "Nephrotic syndrome is a protein leak: proteinuria over 3.5 g/day, low albumin, edema, high lipids. Nephritic syndrome is glomerular inflammation: hematuria with RBC casts, hypertension, and azotemia. The classic nephrotic causes are minimal change (kids), FSGS, membranous, and diabetes. Classic nephritic causes are poststreptococcal GN, IgA nephropathy, and RPGN. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -202,22 +186,6 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-7.jpg"
-  ],
-  "posted": false,
-  "media_id": null,
-  "posted_at": null
- },
- {
-  "id": "stemi-algorithm",
-  "caption": "STEMI in the ED: ECG within 10 minutes of arrival, activate the cath lab on ST elevation in two contiguous leads, give aspirin and an anticoagulant, and reperfuse. Primary PCI is preferred if it can happen within 120 minutes of first medical contact. Otherwise give fibrinolytics within 30 minutes and transfer. Inferior STEMI: get a right sided ECG before nitrates. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "image_urls": [
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-1.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-2.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-3.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-4.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-5.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-6.jpg",
-   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-7.jpg"
   ],
   "posted": false,
   "media_id": null,
@@ -298,6 +266,38 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "dka-mechanism",
+  "caption": "DKA starts with insulin deficiency. Glucose cannot enter cells while fat breakdown makes ketoacids, causing an anion gap metabolic acidosis. Osmotic diuresis dehydrates the patient and depletes total body potassium even if the serum level looks normal or high. Fluids first, check potassium, then insulin. If potassium is low, replace it before starting insulin. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "stemi-algorithm",
+  "caption": "STEMI in the ED: ECG within 10 minutes of first medical contact, activate the cath lab on ST elevation in two contiguous leads, give aspirin and an anticoagulant, and reperfuse. Primary PCI is preferred if it can happen within 120 minutes of first medical contact. Otherwise give fibrinolytics within 30 minutes and transfer. Inferior STEMI: get a right sided ECG before nitrates. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-7.jpg"
   ],
   "posted": false,
   "media_id": null,
