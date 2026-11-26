@@ -32,6 +32,10 @@ def body(s,a,d,t):
         for col in s["cols"]:
             h+=f'<div class="col"><div class="ch">{E(col[0])}</div>'+"".join(f'<div class="ci">{E(i)}</div>' for i in col[1])+'</div>'
         h+='</div>'
+    elif ty=="ecg":
+        import ecgdraw
+        n=len(s["panels"]); hh={1:560,2:380,3:236}[n]
+        h+="".join(ecgdraw.P(k,hh,d) for k in s["panels"])
     elif ty=="final":
         cta=s.get("cta","Save this for later. Comment the topic you want next.")
         h+=f'<div class="fin{" big" if s.get("big") else ""}">{E(s["text"])}</div>'+(f'<div class="cta">{E(cta)}</div>' if cta else '')
@@ -54,7 +58,7 @@ html,body{{margin:0;width:1080px;height:1350px;overflow:hidden;font-family:'Lora
 .cv{{position:absolute;left:0;right:0;top:230px;color:#fff}}
 .cv .big{{font-size:96px;font-weight:700;line-height:1.08;margin:20px 0 30px}}
 .cv .sb{{color:#fff;opacity:.9;font-size:40px}}
-#c{{margin-top:34px;font-size:30px}}
+#c{{margin-top:26px;font-size:30px}}
 .bx{{border:3px solid {a};background:{t};color:{d};border-radius:22px;padding:.5em .9em;margin:0}}
 .bx b{{display:block;font-size:1.2em;line-height:1.2}} .bx span{{display:block;font-size:.95em;margin-top:.15em;line-height:1.25}}
 .bx.last{{background:{a};color:#fff}}

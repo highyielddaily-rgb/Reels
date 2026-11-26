@@ -1742,6 +1742,17 @@
     "sub": "Swipe for the answer"
    },
    {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "pe_v2",
+     "pe_i",
+     "pe_iii"
+    ]
+   },
+   {
     "type": "final",
     "tag": "THE ANSWER",
     "title": "Answer",
@@ -1791,6 +1802,16 @@
     "tag": "ECG PEARL",
     "title": "Pain free patient with deeply inverted or biphasic T waves in V2 and V3?",
     "sub": "Swipe for the answer"
+   },
+   {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "wel_a",
+     "wel_b"
+    ]
    },
    {
     "type": "final",
@@ -1844,6 +1865,16 @@
     "sub": "Swipe for the answer"
    },
    {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "dw_norm",
+     "dw_dw"
+    ]
+   },
+   {
     "type": "final",
     "tag": "THE ANSWER",
     "title": "Answer",
@@ -1893,6 +1924,16 @@
     "tag": "ECG PEARL",
     "title": "ST depression in V1 to V3 with tall R waves and upright T waves?",
     "sub": "Swipe for the answer"
+   },
+   {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "post_v2",
+     "post_v7"
+    ]
    },
    {
     "type": "final",
@@ -1946,6 +1987,16 @@
     "sub": "Swipe for the answer"
    },
    {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "avr_avr",
+     "avr_v5"
+    ]
+   },
+   {
     "type": "final",
     "tag": "THE ANSWER",
     "title": "Answer",
@@ -1995,6 +2046,17 @@
     "tag": "ECG PEARL",
     "title": "Chest pain with a left bundle branch block. How do you spot a STEMI?",
     "sub": "Swipe for the answer"
+   },
+   {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "sg_lbbb",
+     "sg_exc",
+     "sg_conc"
+    ]
    },
    {
     "type": "final",
@@ -2048,6 +2110,15 @@
     "sub": "Swipe for the answer"
    },
    {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "tam"
+    ]
+   },
+   {
     "type": "final",
     "tag": "THE ANSWER",
     "title": "Answer",
@@ -2097,6 +2168,16 @@
     "tag": "ECG PEARL",
     "title": "Very fast irregular wide complex tachycardia with varying QRS widths?",
     "sub": "Swipe for the answer"
+   },
+   {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "wpw_sin",
+     "wpw_af"
+    ]
    },
    {
     "type": "final",
@@ -2150,6 +2231,16 @@
     "sub": "Swipe for the answer"
    },
    {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "brug1",
+     "brug2"
+    ]
+   },
+   {
     "type": "final",
     "tag": "THE ANSWER",
     "title": "Answer",
@@ -2199,6 +2290,16 @@
     "tag": "ECG PEARL",
     "title": "Chest pain with diffuse concave ST elevation?",
     "sub": "Swipe for the answer"
+   },
+   {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "peri2",
+     "peri_avr"
+    ]
    },
    {
     "type": "final",
@@ -2252,6 +2353,15 @@
     "sub": "Swipe for the answer"
    },
    {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "tors"
+    ]
+   },
+   {
     "type": "final",
     "tag": "THE ANSWER",
     "title": "Answer",
@@ -2301,6 +2411,15 @@
     "tag": "ECG PEARL",
     "title": "Regular wide complex tachycardia in a patient who looks stable?",
     "sub": "Swipe for the answer"
+   },
+   {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "wct"
+    ]
    },
    {
     "type": "final",
@@ -2354,6 +2473,17 @@
     "sub": "Swipe for the answer"
    },
    {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "rv_ii",
+     "rv_iii",
+     "rv_v4r"
+    ]
+   },
+   {
     "type": "final",
     "tag": "THE ANSWER",
     "title": "Answer",
@@ -2405,6 +2535,17 @@
     "sub": "Swipe for the answer"
    },
    {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "dig_eff",
+     "dig_at",
+     "dig_bivt"
+    ]
+   },
+   {
     "type": "final",
     "tag": "THE ANSWER",
     "title": "Answer",
@@ -2454,6 +2595,17 @@
     "tag": "ECG PEARL",
     "title": "Long QT or short QT: which electrolyte?",
     "sub": "Swipe for the answer"
+   },
+   {
+    "type": "ecg",
+    "tag": "THE TRACING",
+    "title": "What it looks like",
+    "sub": "Schematic drawing, not a real tracing",
+    "panels": [
+     "ca_norm",
+     "ca_low",
+     "ca_high"
+    ]
    },
    {
     "type": "final",
