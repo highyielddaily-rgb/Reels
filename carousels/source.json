@@ -1729,5 +1729,362 @@
     "text": "Every 2 minutes, while compressions continue, ask which H or T this could be. PEA and asystole are where they matter most. Ultrasound and the ECG find most of them fast."
    }
   ]
+ },
+ {
+  "id": "ecg-pe-twi",
+  "palette": 2,
+  "caption": "ECG pearl: T wave inversions in V1 to V4 and the inferior leads at the same time point to right heart strain, so think pulmonary embolism. Sinus tachycardia is still the most common PE finding, and a normal ECG does not rule it out. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "T wave inversions in V1 to V4 and the inferior leads?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Think pulmonary embolism.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "The pattern",
+      "Simultaneous T wave inversions in II, III, aVF and V1 to V4 reflect right ventricular strain"
+     ],
+     [
+      "Most specific",
+      "This combination is one of the most specific ECG findings for PE"
+     ],
+     [
+      "Most common",
+      "Sinus tachycardia is the most common abnormality, and S1Q3T3 is the classic but less common sign"
+     ],
+     [
+      "Versus ACS",
+      "ACS is rarely tachycardic, so tachycardia plus this pattern favors PE"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Right heart strain on the ECG should make you think PE. Risk stratify with the Wells score, then D dimer or CTPA, and look at troponin and RV size if the patient is sick."
+   }
+  ]
+ },
+ {
+  "id": "ecg-wellens",
+  "palette": 2,
+  "caption": "ECG pearl: biphasic or deeply inverted T waves in V2 and V3 in a pain free patient with recent chest pain is Wellens syndrome, a sign of critical proximal LAD stenosis. Do not stress test these patients. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Pain free patient with deeply inverted or biphasic T waves in V2 and V3?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Wellens syndrome: critical proximal LAD stenosis.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "When it shows",
+      "The pattern appears in the pain free window, often after chest pain has resolved"
+     ],
+     [
+      "Labs",
+      "Troponin is normal or only slightly elevated"
+     ],
+     [
+      "Two types",
+      "Biphasic T waves (type A) or deep symmetric inversion (type B, about 75 percent)"
+     ],
+     [
+      "Other clues",
+      "Little or no ST elevation and preserved R wave progression"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Do not stress test. Treat as unstable angina with a critical LAD lesion, admit, and arrange early angiography. The T waves can evolve into an anterior STEMI."
+   }
+  ]
+ },
+ {
+  "id": "ecg-dewinter",
+  "palette": 2,
+  "caption": "ECG pearl: upsloping ST depression flowing into tall, symmetric T waves in the precordial leads is the de Winter pattern, a STEMI equivalent from proximal LAD occlusion. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Upsloping ST depression in the precordial leads with tall, symmetric T waves?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "de Winter pattern: a STEMI equivalent from proximal LAD occlusion.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "The look",
+      "Upsloping ST depression at the J point running into tall, symmetric T waves"
+     ],
+     [
+      "Where",
+      "Precordial leads, often with slight ST elevation in aVR"
+     ],
+     [
+      "Why it matters",
+      "There is no classic ST elevation, so it is easy to miss"
+     ],
+     [
+      "Treat it as",
+      "An acute occlusion, not an NSTEMI"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Tall T waves with upsloping ST depression in the chest leads in a patient with chest pain means call the cath lab. Do not wait for troponin."
+   }
+  ]
+ },
+ {
+  "id": "ecg-posterior",
+  "palette": 2,
+  "caption": "ECG pearl: horizontal ST depression in V1 to V3 with tall R waves and upright T waves in a patient with chest pain suggests a posterior MI. Get posterior leads V7 to V9 to confirm. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "ST depression in V1 to V3 with tall R waves and upright T waves?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Posterior MI until proven otherwise.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "Why it looks flipped",
+      "V1 to V3 look at the back wall from the front, so ST elevation shows up as ST depression and Q waves show up as tall R waves"
+     ],
+     [
+      "Common context",
+      "Often with inferior or lateral infarction"
+     ],
+     [
+      "Confirm it",
+      "Posterior leads V7 to V9: ST elevation of 0.5 mm or more confirms it"
+     ],
+     [
+      "Treat as",
+      "A STEMI equivalent"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Chest pain with horizontal ST depression in V1 to V3 means get posterior leads. If they show ST elevation, activate the cath lab."
+   }
+  ]
+ },
+ {
+  "id": "ecg-avr",
+  "palette": 2,
+  "caption": "ECG pearl: ST elevation in aVR with widespread ST depression suggests left main or three vessel disease, or a demand state. It is a high risk pattern, not a routine NSTEMI. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "ST elevation in aVR with diffuse ST depression?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Think left main or multivessel disease.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "The pattern",
+      "ST elevation in aVR (often V1 too) with ST depression of 1 mm or more in eight or more leads"
+     ],
+     [
+      "What it means",
+      "Severe ischemia from left main or three vessel disease, or a demand state"
+     ],
+     [
+      "Why aVR",
+      "It looks at the heart from the right shoulder, the opposite direction of the left ventricle, so it mirrors diffuse subendocardial ischemia"
+     ],
+     [
+      "Do not call it",
+      "A routine NSTEMI"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "This is a high risk ECG. Treat the patient as unstable, repeat ECGs, and involve cardiology early for angiography."
+   }
+  ]
+ },
+ {
+  "id": "ecg-sgarbossa",
+  "palette": 2,
+  "caption": "ECG pearl: in LBBB or a paced rhythm, use the Smith modified Sgarbossa criteria: concordant ST elevation, concordant ST depression in V1 to V3, or ST elevation of at least 25 percent of the preceding S wave. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Chest pain with a left bundle branch block. How do you spot a STEMI?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Use the Smith modified Sgarbossa criteria.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "Concordant ST elevation",
+      "1 mm or more in any lead, ST moving the same direction as the QRS"
+     ],
+     [
+      "Concordant ST depression",
+      "1 mm or more in V1, V2, or V3"
+     ],
+     [
+      "Excessive discordant ST elevation",
+      "1 mm or more and at least 25 percent of the depth of the preceding S wave"
+     ],
+     [
+      "Scoring",
+      "Any one is positive for the modified rule. The original needs a score of 3"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "In LBBB or a ventricular paced rhythm, look for ST changes that go with the QRS or are too big for the S wave. A positive rule means treat as occlusion MI."
+   }
+  ]
+ },
+ {
+  "id": "ecg-tamponade",
+  "palette": 2,
+  "caption": "ECG pearl: sinus tachycardia, low voltage, and electrical alternans together point to cardiac tamponade. Confirm with bedside echo and drain if unstable. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ECG PEARL",
+    "title": "Tachycardia, low voltage, and QRS height changing beat to beat?",
+    "sub": "Swipe for the answer"
+   },
+   {
+    "type": "final",
+    "tag": "THE ANSWER",
+    "title": "Answer",
+    "text": "Think cardiac tamponade.",
+    "cta": "",
+    "big": true
+   },
+   {
+    "type": "list",
+    "tag": "WHY",
+    "title": "What to know",
+    "sub": "",
+    "items": [
+     [
+      "The triad",
+      "Sinus tachycardia, low QRS voltage, and electrical alternans"
+     ],
+     [
+      "Alternans",
+      "The heart swings in the effusion, so QRS height alternates every beat"
+     ],
+     [
+      "Also look for",
+      "JVD, hypotension, and muffled heart sounds (Beck triad)"
+     ],
+     [
+      "Confirm",
+      "Bedside echo: pericardial effusion with RV or RA collapse"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "TAKEAWAY",
+    "title": "Key takeaway",
+    "text": "Obstructive shock with this ECG means get an echo now. If the patient is unstable, drain it with pericardiocentesis."
+   }
+  ]
  }
 ]

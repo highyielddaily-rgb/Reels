@@ -33,7 +33,8 @@ def body(s,a,d,t):
             h+=f'<div class="col"><div class="ch">{E(col[0])}</div>'+"".join(f'<div class="ci">{E(i)}</div>' for i in col[1])+'</div>'
         h+='</div>'
     elif ty=="final":
-        h+=f'<div class="fin">{E(s["text"])}</div><div class="cta">Save this for later. Comment the topic you want next.</div>'
+        cta=s.get("cta","Save this for later. Comment the topic you want next.")
+        h+=f'<div class="fin{" big" if s.get("big") else ""}">{E(s["text"])}</div>'+(f'<div class="cta">{E(cta)}</div>' if cta else '')
     return h+'</div>'
 def page(s,i,N,pal):
     a,d,t=P[pal%len(P)]
@@ -63,6 +64,7 @@ html,body{{margin:0;width:1080px;height:1350px;overflow:hidden;font-family:'Lora
 .ch{{font-weight:700;font-size:1.3em;color:{a};margin-bottom:.4em;line-height:1.15}}
 .ci{{color:{d};margin:.45em 0;line-height:1.25;font-size:1em}}
 .fin{{font-size:1.45em;line-height:1.4;background:{t};border:3px solid {a};border-radius:22px;padding:.8em .9em;color:{d}}}
+.fin.big{{font-size:2.3em;line-height:1.25;padding:1.1em 1em;margin-top:1.2em;font-weight:700}}
 .cta{{margin-top:1.1em;font-style:italic;color:#555;font-size:1em}}
 .foot{{position:absolute;left:70px;bottom:60px;font-size:28px;color:{'#fff' if cover else '#777'}}}
 .dis{{position:absolute;right:70px;bottom:60px;font-size:28px;color:{'#fff' if cover else '#777'}}}

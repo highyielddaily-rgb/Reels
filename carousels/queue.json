@@ -80,6 +80,19 @@
   "posted_at": null
  },
  {
+  "id": "ecg-pe-twi",
+  "caption": "ECG pearl: T wave inversions in V1 to V4 and the inferior leads at the same time point to right heart strain, so think pulmonary embolism. Sinus tachycardia is still the most common PE finding, and a normal ECG does not rule it out. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
   "id": "betablocker",
   "caption": "Beta blockers turn down the sympathetic drive. Beta1 receptors in the heart use Gs, cAMP, and PKA to raise rate and contractility. Block them and heart rate, contractility, and oxygen demand all fall. Selectivity matters: beta2 blockade in the lungs can cause bronchospasm. ED uses include AF with RVR, ACS, aortic dissection (esmolol first), and thyroid storm. In overdose, glucagon works because it makes cAMP through its own receptor and bypasses the block. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -106,6 +119,19 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-wellens",
+  "caption": "ECG pearl: biphasic or deeply inverted T waves in V2 and V3 in a pain free patient with recent chest pain is Wellens syndrome, a sign of critical proximal LAD stenosis. Do not stress test these patients. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-4.jpg"
   ],
   "posted": false,
   "media_id": null,
@@ -144,6 +170,19 @@
   "posted_at": null
  },
  {
+  "id": "ecg-dewinter",
+  "caption": "ECG pearl: upsloping ST depression flowing into tall, symmetric T waves in the precordial leads is the de Winter pattern, a STEMI equivalent from proximal LAD occlusion. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
   "id": "hf-compensation",
   "caption": "The body tries to rescue a failing heart, and the rescue makes things worse. Low output triggers sympathetic and RAAS activation, which raises preload and afterload and drives remodeling. That is why ACE inhibitors, ARBs, ARNIs, beta blockers, and MRAs improve survival in HFrEF. Loop diuretics relieve congestion but do not improve mortality. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -170,6 +209,19 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-posterior",
+  "caption": "ECG pearl: horizontal ST depression in V1 to V3 with tall R waves and upright T waves in a patient with chest pain suggests a posterior MI. Get posterior leads V7 to V9 to confirm. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-4.jpg"
   ],
   "posted": false,
   "media_id": null,
@@ -208,6 +260,19 @@
   "posted_at": null
  },
  {
+  "id": "ecg-avr",
+  "caption": "ECG pearl: ST elevation in aVR with widespread ST depression suggests left main or three vessel disease, or a demand state. It is a high risk pattern, not a routine NSTEMI. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
   "id": "pe-workup",
   "caption": "PE workup depends on stability and pretest probability. Unstable patients get bedside echo and treatment. Low risk patients who are PERC negative need no testing. Others get D dimer, then CTPA if positive, and high probability goes straight to CTPA. Anticoagulate if stable, lyse if massive. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -240,6 +305,19 @@
   "posted_at": null
  },
  {
+  "id": "ecg-sgarbossa",
+  "caption": "ECG pearl: in LBBB or a paced rhythm, use the Smith modified Sgarbossa criteria: concordant ST elevation, concordant ST depression in V1 to V3, or ST elevation of at least 25 percent of the preceding S wave. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-4.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
   "id": "hyponatremia",
   "caption": "Hyponatremia: check serum osmolality first, then volume status, then urine sodium and osmolality. SIADH is a euvolemic cause with high urine sodium. Severe symptoms like seizures get 3 percent saline in boluses. Correct slowly: overcorrection causes osmotic demyelination. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -266,6 +344,19 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-tamponade",
+  "caption": "ECG pearl: sinus tachycardia, low voltage, and electrical alternans together point to cardiac tamponade. Confirm with bedside echo and drain if unstable. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-4.jpg"
   ],
   "posted": false,
   "media_id": null,
