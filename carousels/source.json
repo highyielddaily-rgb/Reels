@@ -3440,5 +3440,977 @@
     "text": "A PEG is a stomach tube through the abdominal wall. Clogs are the most common problem, and the first question on a dislodged tube is how old the tract is."
    }
   ]
+ },
+ {
+  "id": "ftw-iv-spike",
+  "palette": 1,
+  "caption": "FTW\u00b2 (For the Wards, For the Win): how to spike and prime an IV bag. Close the roller clamp, spike the bag with a twist while keeping the spike and port sterile, hang it, fill the drip chamber one third to one half full, then slowly prime the tubing and clear the air before connecting to the patient. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "FTW\u00b2 \u00b7 FOR THE WARDS, FOR THE WIN",
+    "title": "How to spike and prime an IV bag",
+    "sub": "Clamp, spike, fill, prime, check"
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 BEFORE YOU START",
+    "title": "Set up",
+    "sub": "",
+    "items": [
+     [
+      "Hand hygiene",
+      "Then gather the bag, tubing, and a basin or sink"
+     ],
+     [
+      "Check the bag",
+      "Right fluid, not expired, clear, no leaks"
+     ],
+     [
+      "Open the tubing",
+      "Take it out of the package and keep both ends sterile"
+     ],
+     [
+      "IV solution is a medication",
+      "Check it against the order"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 STEP 1",
+    "title": "Close the clamp first",
+    "sub": "",
+    "items": [
+     [
+      "Slide the roller clamp",
+      "Just below the drip chamber, about 3 cm"
+     ],
+     [
+      "Close it",
+      "So fluid cannot run through when you spike"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 STEP 2",
+    "title": "Spike the bag",
+    "sub": "",
+    "items": [
+     [
+      "Remove the covers",
+      "On the bag port and on the tubing spike. Do not touch either one"
+     ],
+     [
+      "Insert the spike",
+      "Gentle push with a twist"
+     ],
+     [
+      "Hang the bag",
+      "About 1 meter above the IV site for gravity flow"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 STEP 3",
+    "title": "Fill the drip chamber",
+    "sub": "",
+    "items": [
+     [
+      "Squeeze the chamber",
+      "Until it is one third to one half full"
+     ],
+     [
+      "Why",
+      "Fluid in the chamber keeps air out of the tubing"
+     ],
+     [
+      "Pumps",
+      "Follow the device instructions for its set"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 STEP 4",
+    "title": "Prime the line",
+    "sub": "",
+    "items": [
+     [
+      "Open the clamp slowly",
+      "Hold the tubing end over a basin or sink"
+     ],
+     [
+      "Flip the ports",
+      "Invert the Y ports and back check valves as fluid passes so air escapes"
+     ],
+     [
+      "Stop when",
+      "Fluid drips from the end and the whole line is full"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 CHECK FOR AIR",
+    "title": "Before it touches the patient",
+    "sub": "",
+    "items": [
+     [
+      "Inspect the full length",
+      "Look for any bubbles"
+     ],
+     [
+      "Tap or flick",
+      "To push bubbles out, or prime again"
+     ],
+     [
+      "All air out",
+      "Air in the line can cause an air embolism. Very tiny bubbles are tolerated"
+     ],
+     [
+      "Then",
+      "Clamp, recap the end, and label the bag and tubing"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Clamp closed, spike with a twist, fill the chamber, prime slowly, check for air, and never touch the spike or port."
+   }
+  ]
+ },
+ {
+  "id": "ftw-neuro-exam",
+  "palette": 1,
+  "caption": "FTW\u00b2 (For the Wards, For the Win): neuro exam pearls. Go in order: mental status, cranial nerves, motor, reflexes, sensory, cerebellar, and gait. Localize first, grade strength 0 to 5, and sort upper from lower motor neuron signs. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "FTW\u00b2 \u00b7 FOR THE WARDS, FOR THE WIN",
+    "title": "Neuro exam pearls",
+    "sub": "Bedside order and what the findings mean"
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 THE ORDER",
+    "title": "Eight steps",
+    "sub": "",
+    "items": [
+     [
+      "1 and 2",
+      "Mental status, then cranial nerves"
+     ],
+     [
+      "3 and 4",
+      "Motor, then reflexes including special reflexes like Babinski"
+     ],
+     [
+      "5 and 6",
+      "Sensory, then cerebellar"
+     ],
+     [
+      "7",
+      "Gait and station"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 THINK FIRST",
+    "title": "Localize before you examine",
+    "sub": "",
+    "items": [
+     [
+      "After the history",
+      "Where do the symptoms localize?"
+     ],
+     [
+      "Bring hypotheses",
+      "So you know what you expect to find"
+     ],
+     [
+      "Take your time",
+      "A good neuro exam is not a 5 minute exam"
+     ],
+     [
+      "Unconscious patient",
+      "Examine off sedation if it is safe to pause it"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 MENTAL STATUS",
+    "title": "Language and thought",
+    "sub": "",
+    "items": [
+     [
+      "Fluency",
+      "Can they name objects and speak smoothly?"
+     ],
+     [
+      "Comprehension",
+      "Can they follow a complex command?"
+     ],
+     [
+      "Repetition",
+      "Can they repeat a phrase?"
+     ],
+     [
+      "Fluent, cannot comprehend, cannot repeat",
+      "Wernicke aphasia"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 STRENGTH",
+    "title": "Grade 0 to 5",
+    "sub": "",
+    "items": [
+     [
+      "0 and 1",
+      "No movement, or a flicker of movement"
+     ],
+     [
+      "2",
+      "Moves in the horizontal plane but not against gravity"
+     ],
+     [
+      "3",
+      "Moves against gravity"
+     ],
+     [
+      "4 and 5",
+      "4 is weak against resistance. 5 is full strength"
+     ]
+    ]
+   },
+   {
+    "type": "compare",
+    "tag": "UMN VS LMN",
+    "title": "Sort the weakness",
+    "sub": "",
+    "cols": [
+     [
+      "Upper motor neuron",
+      [
+       "Increased tone",
+       "Hyperreflexia",
+       "Babinski sign",
+       "Clonus"
+      ]
+     ],
+     [
+      "Lower motor neuron",
+      [
+       "Flaccid tone",
+       "Muscle wasting",
+       "Hyporeflexia",
+       "Fasciculations"
+      ]
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 REFLEXES",
+    "title": "What to check",
+    "sub": "",
+    "items": [
+     [
+      "Babinski",
+      "Upgoing toe is abnormal"
+     ],
+     [
+      "Brisk reflexes",
+      "UMN pattern. Clonus is a 4+ response"
+     ],
+     [
+      "Reflex roots",
+      "Biceps C5 C6, triceps C6 C7, knee L2 to L4, ankle S1"
+     ],
+     [
+      "Relax the patient",
+      "Reinforce with the finger hooking maneuver if needed"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 COORDINATION",
+    "title": "Cerebellar and gait",
+    "sub": "",
+    "items": [
+     [
+      "Finger to nose and heel to shin",
+      "Look for dysmetria or tremor"
+     ],
+     [
+      "Rapid alternating movements",
+      "Slowing suggests cerebellar disease"
+     ],
+     [
+      "Gait",
+      "An ataxic gait suggests a cerebellar lesion"
+     ],
+     [
+      "Tongue",
+      "Protrudes toward the side of the lesion"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Go in a set order, localize first, grade strength 0 to 5, and sort the findings into upper versus lower motor neuron."
+   }
+  ]
+ },
+ {
+  "id": "ftw-monitor",
+  "palette": 1,
+  "caption": "FTW\u00b2 (For the Wards, For the Win): how to read a bedside monitor. Know what each tracing and number means, remember the blood pressure shown may not be current, and treat the patient before you trust the alarm. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "FTW\u00b2 \u00b7 FOR THE WARDS, FOR THE WIN",
+    "title": "How to read a bedside monitor",
+    "sub": "Top to bottom, and what to trust"
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 TOP TO BOTTOM",
+    "title": "What you will see",
+    "sub": "",
+    "items": [
+     [
+      "ECG tracing and heart rate",
+      "The rhythm across the top with the HR number"
+     ],
+     [
+      "SpO2 and pleth",
+      "Oxygen saturation with its pulse waveform"
+     ],
+     [
+      "Blood pressure",
+      "Cuff BP with MAP, or an arterial line waveform"
+     ],
+     [
+      "Resp rate and ETCO2",
+      "If capnography is connected"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 CUFF PRESSURE",
+    "title": "NIBP basics",
+    "sub": "",
+    "items": [
+     [
+      "It is the last reading",
+      "Not always the current blood pressure. Press the button for a new one"
+     ],
+     [
+      "Mean first",
+      "The device measures MAP. Systolic and diastolic are derived"
+     ],
+     [
+      "Cuff too small",
+      "Falsely high BP"
+     ],
+     [
+      "Cuff too big",
+      "Falsely low BP"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 ARTERIAL LINE",
+    "title": "Invasive blood pressure",
+    "sub": "",
+    "items": [
+     [
+      "Direct measurement",
+      "A waveform from a catheter in an artery"
+     ],
+     [
+      "Beat to beat",
+      "Shows BP, HR, and MAP continuously"
+     ],
+     [
+      "Check the trace",
+      "A damped or flat waveform can mean a bad reading or line problem"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 SPO2",
+    "title": "When to distrust it",
+    "sub": "",
+    "items": [
+     [
+      "Poor perfusion",
+      "Vasoconstriction, hypothermia, low BP"
+     ],
+     [
+      "Arrhythmias",
+      "Atrial fibrillation or VT can confuse the sensor"
+     ],
+     [
+      "Motion",
+      "Shivering and movement"
+     ],
+     [
+      "Check the pleth",
+      "A clean pulse waveform means a more trustworthy number"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 ALARMS",
+    "title": "Why they go off",
+    "sub": "",
+    "items": [
+     [
+      "Most common cause",
+      "ECG electrodes. One poor lead can set off many alarms"
+     ],
+     [
+      "Heart rate, arrhythmia, resp rate",
+      "All can be affected by lead contact"
+     ],
+     [
+      "Never silence alone",
+      "Do not disable an alarm without telling the bedside nurse"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 FIRST MOVE",
+    "title": "Look at the patient",
+    "sub": "",
+    "items": [
+     [
+      "Go to the bedside",
+      "Airway, breathing, circulation"
+     ],
+     [
+      "Then the monitor",
+      "Is the trace clean and the lead on?"
+     ],
+     [
+      "Treat the patient",
+      "Not the number"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Read the ECG, SpO2, and pressure together. Check lead contact, cuff size, and the pleth before you trust any single number, and always look at the patient first."
+   }
+  ]
+ },
+ {
+  "id": "ftw-foley",
+  "palette": 1,
+  "caption": "FTW\u00b2 (For the Wards, For the Win): Foley catheters. Place one only for a real indication, keep the system closed with the bag below the bladder, review the need every day, and remove it as soon as you can to prevent CAUTI. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "FTW\u00b2 \u00b7 FOR THE WARDS, FOR THE WIN",
+    "title": "Foley catheters",
+    "sub": "When to place, when to pull"
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 WHEN TO PLACE",
+    "title": "Appropriate indications",
+    "sub": "",
+    "items": [
+     [
+      "Retention or obstruction",
+      "Acute urinary retention or bladder outlet obstruction"
+     ],
+     [
+      "Critical illness",
+      "Accurate urine output measurement"
+     ],
+     [
+      "Wounds",
+      "Open sacral or perineal wound in an incontinent patient"
+     ],
+     [
+      "Other",
+      "Selected surgeries, prolonged immobilization, comfort at end of life"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 WHEN NOT TO",
+    "title": "Inappropriate uses",
+    "sub": "",
+    "items": [
+     [
+      "Convenience",
+      "Not for staff convenience"
+     ],
+     [
+      "Incontinence",
+      "Not a substitute for nursing care"
+     ],
+     [
+      "Specimen",
+      "Not when the patient can void"
+     ],
+     [
+      "After surgery",
+      "Not for a long time without a reason"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 PLACEMENT",
+    "title": "Insert safely",
+    "sub": "",
+    "items": [
+     [
+      "Aseptic technique",
+      "Sterile insertion"
+     ],
+     [
+      "Smallest bore possible",
+      "Consistent with good drainage, to limit urethral trauma"
+     ],
+     [
+      "Closed system",
+      "Keep it sealed after insertion"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 KEEP IT CLEAN",
+    "title": "Daily care",
+    "sub": "",
+    "items": [
+     [
+      "Bag below the bladder",
+      "Always. Never on the floor"
+     ],
+     [
+      "Keep urine flowing",
+      "No kinks or obstruction"
+     ],
+     [
+      "Document the indication",
+      "Every day it stays in"
+     ],
+     [
+      "No routine changes",
+      "Do not change the catheter or bag on a fixed schedule"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 GET IT OUT",
+    "title": "Remove early",
+    "sub": "",
+    "items": [
+     [
+      "Review daily",
+      "Does it still have an indication?"
+     ],
+     [
+      "After surgery",
+      "Remove as soon as possible, preferably within 24 hours"
+     ],
+     [
+      "Use reminders",
+      "Nurse driven removal helps"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 ALTERNATIVES",
+    "title": "Think before placing",
+    "sub": "",
+    "items": [
+     [
+      "Condom catheter",
+      "For cooperative men without retention or obstruction"
+     ],
+     [
+      "Intermittent catheterization",
+      "Preferred for bladder emptying dysfunction"
+     ],
+     [
+      "Bladder scan",
+      "To confirm whether there is retention"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Every Foley needs a reason. Keep it closed and below the bladder, review it daily, and take it out as soon as the reason is gone."
+   }
+  ]
+ },
+ {
+  "id": "ftw-central-lines",
+  "palette": 1,
+  "caption": "FTW\u00b2 (For the Wards, For the Win): central lines. A central line ends in the superior vena cava or right atrium. Know the difference between a CVC, a PICC, a tunneled catheter, and a port, and remember a midline is not central. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "FTW\u00b2 \u00b7 FOR THE WARDS, FOR THE WIN",
+    "title": "Central lines: CVC, PICC, port",
+    "sub": "What each one is and why it matters"
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 WHAT MAKES IT CENTRAL",
+    "title": "The tip location",
+    "sub": "",
+    "items": [
+     [
+      "Definition",
+      "A catheter that ends in the SVC or right atrium"
+     ],
+     [
+      "Good tip positions",
+      "Mid to lower SVC, the cavoatrial junction, or high right atrium"
+     ],
+     [
+      "Confirm",
+      "Chest x-ray for the tip position"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 CVC",
+    "title": "Placed in the neck, chest, or groin",
+    "sub": "",
+    "items": [
+     [
+      "Veins",
+      "Internal jugular, subclavian, or femoral"
+     ],
+     [
+      "Type",
+      "Non tunneled, short term"
+     ],
+     [
+      "Typical dwell",
+      "About 3 weeks"
+     ],
+     [
+      "Lumens",
+      "Often 1 to 3"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 PICC",
+    "title": "Placed through an arm vein",
+    "sub": "",
+    "items": [
+     [
+      "Veins",
+      "Basilic, brachial, cephalic, or median cubital"
+     ],
+     [
+      "Best vein",
+      "Right basilic: larger and the straightest path"
+     ],
+     [
+      "Advantage",
+      "Can be placed at the bedside without surgery"
+     ],
+     [
+      "Tip",
+      "Ends in the SVC like any central line"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 TUNNELED AND PORTS",
+    "title": "Long term access",
+    "sub": "",
+    "items": [
+     [
+      "Tunneled catheters",
+      "Hickman, Broviac, and permanent dialysis catheters"
+     ],
+     [
+      "Port",
+      "Implanted under the skin of the chest, accessed with a needle"
+     ],
+     [
+      "Dwell",
+      "A port can stay in for years"
+     ],
+     [
+      "Use",
+      "Chemotherapy, long antibiotics, nutrition, dialysis"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 NOT CENTRAL",
+    "title": "Midlines",
+    "sub": "",
+    "items": [
+     [
+      "Where it ends",
+      "In the axillary vein"
+     ],
+     [
+      "Treated as peripheral",
+      "Not used for chemotherapy"
+     ],
+     [
+      "Do not confuse",
+      "A midline is not a PICC"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 WHY USE ONE",
+    "title": "Common reasons",
+    "sub": "",
+    "items": [
+     [
+      "Irritants and vesicants",
+      "Drugs that damage small veins"
+     ],
+     [
+      "Poor peripheral access",
+      "Or long therapy"
+     ],
+     [
+      "Other",
+      "Repeated blood products, CVP monitoring, power injection of contrast"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 PROBLEMS",
+    "title": "What to watch for",
+    "sub": "",
+    "items": [
+     [
+      "Infection",
+      "Line infection and bloodstream infection"
+     ],
+     [
+      "Clots",
+      "Thrombosis or stenosis around the catheter"
+     ],
+     [
+      "Malposition",
+      "Tip in the wrong place"
+     ],
+     [
+      "Arrhythmias",
+      "Tip too deep in the heart"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Central means the tip is in the SVC or right atrium. CVCs are short term, PICCs go through the arm, ports are implanted, and a midline is not central."
+   }
+  ]
+ },
+ {
+  "id": "ftw-o2-devices",
+  "palette": 1,
+  "caption": "FTW\u00b2 (For the Wards, For the Win): oxygen delivery devices. Know the flow range and rough FiO2 of a nasal cannula, face mask, non-rebreather, Venturi mask, and high flow nasal cannula, and step up when the patient needs more. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "FTW\u00b2 \u00b7 FOR THE WARDS, FOR THE WIN",
+    "title": "Oxygen delivery devices",
+    "sub": "From nasal cannula to high flow"
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 NASAL CANNULA",
+    "title": "Low flow",
+    "sub": "",
+    "items": [
+     [
+      "Flow",
+      "1 to 6 L/min"
+     ],
+     [
+      "FiO2",
+      "About 24% at 1 L/min, then roughly 4% more per liter up to about 44%"
+     ],
+     [
+      "Limit",
+      "Above 4 to 6 L/min dries the nose"
+     ],
+     [
+      "Use",
+      "Mild or no distress. Patient can eat and talk"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 SIMPLE FACE MASK",
+    "title": "Higher low flow",
+    "sub": "",
+    "items": [
+     [
+      "Flow",
+      "5 to 10 L/min"
+     ],
+     [
+      "FiO2",
+      "About 35 to 55%"
+     ],
+     [
+      "Do not go below 5 L/min",
+      "Exhaled CO2 can rebreathe in the mask"
+     ],
+     [
+      "Downside",
+      "Hard to eat and talk with"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 NON-REBREATHER",
+    "title": "Reservoir bag",
+    "sub": "",
+    "items": [
+     [
+      "Flow",
+      "10 to 15 L/min"
+     ],
+     [
+      "FiO2",
+      "About 60 to 90% in practice"
+     ],
+     [
+      "Keep the bag inflated",
+      "Flow must exceed the patient's demand"
+     ],
+     [
+      "Use",
+      "Severe hypoxemia while you arrange more support"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 VENTURI MASK",
+    "title": "Precise FiO2",
+    "sub": "",
+    "items": [
+     [
+      "How",
+      "Air entrainment ports set the FiO2"
+     ],
+     [
+      "Settings",
+      "24, 28, 31, 35, 40, and 50%"
+     ],
+     [
+      "Flow",
+      "Must match the device marking"
+     ],
+     [
+      "Use",
+      "When a controlled FiO2 matters, such as COPD"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 HIGH FLOW NASAL CANNULA",
+    "title": "Heated and humidified",
+    "sub": "",
+    "items": [
+     [
+      "Flow",
+      "Up to 40 to 60 L/min"
+     ],
+     [
+      "FiO2",
+      "Titrate from 30 to 100%"
+     ],
+     [
+      "Benefits",
+      "Lowers work of breathing, flushes CO2, gives a little PEEP"
+     ],
+     [
+      "Next step",
+      "Noninvasive ventilation or intubation if failing"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 HOW TO CHOOSE",
+    "title": "Step up as needed",
+    "sub": "",
+    "items": [
+     [
+      "Mild",
+      "Nasal cannula"
+     ],
+     [
+      "Moderate",
+      "Face mask or Venturi"
+     ],
+     [
+      "Severe",
+      "Non-rebreather or high flow"
+     ],
+     [
+      "Always",
+      "Titrate to the patient and reassess"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Match the device to the need: nasal cannula for mild, masks for moderate, non-rebreather or high flow for severe, Venturi when you need a set FiO2."
+   }
+  ]
  }
 ]
