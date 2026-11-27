@@ -77,9 +77,10 @@
     "sub": "Thiamine deficiency. Give thiamine.",
     "caption": "Wernicke's encephalopathy is the triad of confusion, ataxia, and ophthalmoplegia from thiamine deficiency, classically in alcohol use disorder. Most patients do not show all three. Give IV thiamine before or with glucose so you do not worsen it. Untreated, it can progress to Korsakoff syndrome.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
     "palette": 0,
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
+    "posted": true,
+    "media_id": "18136216681670587",
+    "posted_at": "2026-11-27",
+    "posted_slot": "0700"
   },
   {
     "id": "horner",
