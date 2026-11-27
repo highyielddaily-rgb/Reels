@@ -1,618 +1,637 @@
 [
-  {
-    "id": "asthma-copd",
-    "caption": null,
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-7.jpg"
-    ],
-    "posted": true,
-    "media_id": "18222017161348360",
-    "posted_at": "2026-11-24"
-  },
-  {
-    "id": "raas",
-    "caption": "ACE inhibitors and ARBs hit the same pathway at different steps. Angiotensin II is the villain: it constricts vessels, triggers aldosterone, and holds on to salt and water. ACE inhibitors stop it from being made. ARBs block its AT1 receptor instead. The catch is bradykinin: ACE normally breaks it down, so ACE inhibitors let it build up, causing cough and sometimes angioedema. ED red flags: hyperkalemia, AKI, angioedema, and hypotension. Save the last slide for the whole picture.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-7.jpg"
-    ],
-    "posted": true,
-    "media_id": "18167223106494188",
-    "posted_at": "2026-11-25"
-  },
-  {
-    "id": "lasix",
-    "caption": "Lasix works by blocking one transporter. Furosemide blocks NKCC2 in the thick ascending limb of the loop of Henle, so sodium, potassium, and chloride stay in the tubule and water follows them out. That is why it is so powerful. IV Lasix also dilates veins within minutes, which helps in pulmonary edema before the urine even flows. The cost: you lose potassium, magnesium, and calcium, and you can overshoot into hypovolemia and AKI. Save the last slide for the whole picture.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-7.jpg"
-    ],
-    "posted": true,
-    "media_id": "18130254034858108",
-    "posted_at": "2026-11-26"
-  },
-  {
-    "id": "hs-and-ts",
-    "caption": "The Hs and Ts are the reversible causes the AHA tells you to treat during every cardiac arrest: hypovolemia, hypoxia, hydrogen ion, hypo and hyperkalemia, hypothermia, tension pneumothorax, tamponade, toxins, and pulmonary and coronary thrombosis. Think of them every 2 minutes, especially in PEA and asystole. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-7.jpg"
-    ],
-    "posted": true,
-    "media_id": "18023832395952934",
-    "posted_at": "2026-11-27"
-  },
-  {
-    "id": "anticoag",
-    "caption": "Warfarin vs DOACs: same goal, different targets. Warfarin blocks VKORC1, so vitamin K cannot be recycled and factors II, VII, IX, and X are made inactive. That is slow and needs INR monitoring. DOACs block one enzyme directly: factor Xa (apixaban, rivaroxaban, edoxaban) or thrombin (dabigatran). Fixed dosing, fewer interactions, no routine INR. Know your reversal agents before the bleed. Warfarin still wins for mechanical valves, moderate to severe mitral stenosis, and antiphospholipid syndrome. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-pe-twi",
-    "caption": "ECG pearl: T wave inversions in V1 to V4 and the inferior leads at the same time point to right heart strain, so think pulmonary embolism. Sinus tachycardia is still the most common PE finding, and a normal ECG does not rule it out. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "betablocker",
-    "caption": "Beta blockers turn down the sympathetic drive. Beta1 receptors in the heart use Gs, cAMP, and PKA to raise rate and contractility. Block them and heart rate, contractility, and oxygen demand all fall. Selectivity matters: beta2 blockade in the lungs can cause bronchospasm. ED uses include AF with RVR, ACS, aortic dissection (esmolol first), and thyroid storm. In overdose, glucagon works because it makes cAMP through its own receptor and bypasses the block. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "statin",
-    "caption": "Statins block the rate limiting step of cholesterol synthesis. HMG-CoA reductase turns HMG-CoA into mevalonate in the liver. Block it, and liver cells upregulate LDL receptors and pull more LDL out of the blood. Beyond LDL, statins stabilize plaques and calm inflammation, which is why they prevent MIs and strokes. ED relevance: muscle pain plus dark urine means check a CK and creatinine for rhabdomyolysis, especially with CYP3A4 inhibitors or gemfibrozil. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-wellens",
-    "caption": "ECG pearl: biphasic or deeply inverted T waves in V2 and V3 in a pain free patient with recent chest pain is Wellens syndrome, a sign of critical proximal LAD stenosis. Do not stress test these patients. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "sglt2",
-    "caption": "SGLT2 inhibitors make you pee out the sugar. SGLT2 in the proximal tubule reabsorbs most of the filtered glucose along with sodium. Block it and glucose and sodium leave in the urine, lowering glucose, weight, and blood pressure. The benefits reach the heart and kidneys: fewer heart failure hospitalizations and slower CKD progression, with or without diabetes. The ED catch is euglycemic DKA: ketoacidosis with a normal glucose. Check ketones and a gap, not just the glucose. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "hf-left-right",
-    "caption": "Left vs right heart failure. Left sided failure backs blood up into the lungs: dyspnea, orthopnea, crackles, S3. Right sided failure backs blood up into the body: JVD, liver congestion, leg edema. The most common cause of right heart failure is left heart failure. If you see JVD with clear lungs, think RV infarct, tamponade, PE, or lung disease. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-dewinter",
-    "caption": "ECG pearl: upsloping ST depression flowing into tall, symmetric T waves in the precordial leads is the de Winter pattern, a STEMI equivalent from proximal LAD occlusion. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "hf-compensation",
-    "caption": "The body tries to rescue a failing heart, and the rescue makes things worse. Low output triggers sympathetic and RAAS activation, which raises preload and afterload and drives remodeling. That is why ACE inhibitors, ARBs, ARNIs, beta blockers, and MRAs improve survival in HFrEF. Loop diuretics relieve congestion but do not improve mortality. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "nephrotic-nephritic",
-    "caption": "Nephrotic syndrome is a protein leak: proteinuria over 3.5 g/day, low albumin, edema, high lipids. Nephritic syndrome is glomerular inflammation: hematuria with RBC casts, hypertension, and azotemia. The classic nephrotic causes are minimal change (kids), FSGS, membranous, and diabetes. Classic nephritic causes are poststreptococcal GN, IgA nephropathy, and RPGN. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-posterior",
-    "caption": "ECG pearl: horizontal ST depression in V1 to V3 with tall R waves and upright T waves in a patient with chest pain suggests a posterior MI. Get posterior leads V7 to V9 to confirm. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "hyperkalemia-plan",
-    "caption": "Hyperkalemia with ECG changes is an emergency. Step 1: IV calcium to stabilize the heart. Step 2: shift potassium into cells with insulin and dextrose, albuterol, and bicarbonate if acidotic. Step 3: remove it with loop diuretics, binders, or dialysis. Calcium does not lower potassium, and shifts wear off, so plan for removal. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "anion-gap",
-    "caption": "Metabolic acidosis starts with the anion gap: sodium minus chloride minus bicarbonate. A high gap means unmeasured acids: methanol, uremia, DKA, propylene glycol or isoniazid or iron, lactate, ethylene glycol, salicylates. A normal gap means bicarbonate loss or chloride gain: diarrhea, renal tubular acidosis, saline. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-avr",
-    "caption": "ECG pearl: ST elevation in aVR with widespread ST depression suggests left main or three vessel disease, or a demand state. It is a high risk pattern, not a routine NSTEMI. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "pe-workup",
-    "caption": "PE workup depends on stability and pretest probability. Unstable patients get bedside echo and treatment. Low risk patients who are PERC negative need no testing. Others get D dimer, then CTPA if positive, and high probability goes straight to CTPA. Anticoagulate if stable, lyse if massive. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "stroke-algorithm",
-    "caption": "Acute stroke in the ED: note last known well, get a stat noncontrast CT and a glucose, then decide on reperfusion. Thrombolysis (tenecteplase or alteplase) works within 4.5 hours if there is no hemorrhage and BP is under 185/110, and the 2026 guideline allows selected patients up to 24 hours based on imaging. Thrombectomy is for large vessel occlusion. Hypoglycemia, postictal paralysis, and posterior circulation strokes are common traps. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-sgarbossa",
-    "caption": "ECG pearl: in LBBB or a paced rhythm, use the Smith modified Sgarbossa criteria: concordant ST elevation, concordant ST depression in V1 to V3, or ST elevation of at least 25 percent of the preceding S wave. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "hyponatremia",
-    "caption": "Hyponatremia: check serum osmolality first, then volume status, then urine sodium and osmolality. SIADH is a euvolemic cause with high urine sodium. Severe symptoms like seizures get 3 percent saline in boluses. Correct slowly: overcorrection causes osmotic demyelination. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "dka-mechanism",
-    "caption": "DKA starts with insulin deficiency. Glucose cannot enter cells while fat breakdown makes ketoacids, causing an anion gap metabolic acidosis. Osmotic diuresis dehydrates the patient and depletes total body potassium even if the serum level looks normal or high. Fluids first, check potassium, then insulin. If potassium is low, replace it before starting insulin. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-tamponade",
-    "caption": "ECG pearl: sinus tachycardia, low voltage, and electrical alternans together point to cardiac tamponade. Confirm with bedside echo and drain if unstable. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "stemi-algorithm",
-    "caption": "STEMI in the ED: ECG within 10 minutes of first medical contact, activate the cath lab on ST elevation in two contiguous leads, give aspirin and an anticoagulant, and reperfuse. Primary PCI is preferred if it can happen within 120 minutes of first medical contact. Otherwise give fibrinolytics within 30 minutes and transfer. Inferior STEMI: get a right sided ECG before nitrates. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "asthma-attack",
-    "caption": "An asthma attack has two phases. The early phase starts in minutes when allergen cross links IgE on mast cells and releases histamine and leukotrienes. The late phase starts hours later as Th2 cytokines recruit eosinophils and cause edema and mucus. Albuterol relaxes smooth muscle, inhaled steroids calm inflammation. A silent chest or a normal CO2 in a tiring patient is a danger sign. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-wpw-af",
-    "caption": "ECG pearl: a very fast, irregular, wide complex rhythm with changing QRS shapes can be atrial fibrillation with WPW. Avoid AV nodal blockers. Cardiovert if unstable, procainamide if stable. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "shock-types",
-    "caption": "Shock is inadequate oxygen delivery. BP equals cardiac output times systemic vascular resistance. Hypovolemic shock is cold with low filling pressures, cardiogenic is cold and wet, distributive is warm with low SVR, and obstructive comes from PE, tamponade, or tension pneumothorax. Match the type to the fix. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-6.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-7.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "anaphylaxis",
-    "caption": "Anaphylaxis is IgE mediated mast cell and basophil degranulation. Histamine and other mediators cause vasodilation, leak, and bronchospasm. Epinephrine IM into the anterolateral thigh is first line. Antihistamines and steroids are adjuncts only. Observe for a biphasic reaction. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-6.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-brugada",
-    "caption": "ECG pearl: coved ST elevation of at least 2 mm in V1 or V2 followed by an inverted T wave is the Brugada type 1 pattern. Fever and sodium channel blockers can unmask it. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "sepsis-bundle",
-    "caption": "Sepsis in the ED: measure lactate, get cultures, give broad antibiotics within 1 hour if shock is likely or present, give 30 mL/kg crystalloid for hypoperfusion, and start norepinephrine for a MAP under 65 despite fluids. Source control matters too. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "aortic-dissection",
-    "caption": "Aortic dissection: sudden tearing pain, pulse or blood pressure differences, neuro deficits, or a new aortic regurgitation murmur. Use the ADD-RS, then CT angiography. Control heart rate first with a beta blocker, then blood pressure. Type A goes to surgery. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-pericarditis",
-    "caption": "ECG pearl: diffuse concave ST elevation with PR depression, and PR elevation in aVR, points to pericarditis. Reciprocal ST depression or convex ST elevation favors a STEMI instead. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ugib",
-    "caption": "Upper GI bleed in the ED: resuscitate, risk stratify with the Glasgow-Blatchford score, transfuse for hemoglobin of 7 or less, start an IV PPI, and get endoscopy within 24 hours. If varices are possible, add octreotide and ceftriaxone. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "afib-ed",
-    "caption": "AF with RVR in the ED: unstable patients get synchronized cardioversion. Stable patients get rate control with a beta blocker or diltiazem, or rhythm control. Avoid diltiazem in systolic heart failure. In WPW, use cardioversion or procainamide. Decide on anticoagulation with CHA2DS2-VASc. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-5.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-6.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-torsades",
-    "caption": "ECG pearl: polymorphic VT with a twisting QRS and a long QT is torsades de pointes. IV magnesium is first line, correct potassium, and stop QT prolonging drugs. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "chest-pain-big5",
-    "caption": "Chest pain in the ED: rule out the life threats before you think about benign causes. These are acute coronary syndrome, pulmonary embolism, aortic dissection, tension pneumothorax, and esophageal rupture. Each has one clue and one test. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-wct",
-    "caption": "ECG pearl: treat a wide complex tachycardia as VT until proven otherwise. AV dissociation, capture or fusion beats, and chest lead negative concordance point to VT, and stable vitals do not rule it out. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-rv-infarct",
-    "caption": "ECG pearl: inferior STEMI with hypotension, JVD, and clear lungs is an RV infarct until proven otherwise. Get a right sided ECG and avoid nitrates. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-digoxin",
-    "caption": "ECG pearl: scooped ST segments are the digitalis effect and do not mean toxicity. Toxicity shows up as arrhythmias like atrial tachycardia with block or bidirectional VT. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  },
-  {
-    "id": "ecg-calcium",
-    "caption": "ECG pearl: low calcium lengthens the QT interval and high calcium shortens it. Low potassium and low magnesium also cause long QT patterns and torsades risk. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-    "image_urls": [
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-1.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-2.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-3.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-4.jpg",
-      "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-5.jpg"
-    ],
-    "posted": false,
-    "media_id": null,
-    "posted_at": null
-  }
+ {
+  "id": "asthma-copd",
+  "caption": null,
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-copd/hyd-asthma-copd-7.jpg"
+  ],
+  "posted": true,
+  "media_id": "18222017161348360",
+  "posted_at": "2026-11-24"
+ },
+ {
+  "id": "raas",
+  "caption": "ACE inhibitors and ARBs hit the same pathway at different steps. Angiotensin II is the villain: it constricts vessels, triggers aldosterone, and holds on to salt and water. ACE inhibitors stop it from being made. ARBs block its AT1 receptor instead. The catch is bradykinin: ACE normally breaks it down, so ACE inhibitors let it build up, causing cough and sometimes angioedema. ED red flags: hyperkalemia, AKI, angioedema, and hypotension. Save the last slide for the whole picture.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/raas/raas-7.jpg"
+  ],
+  "posted": true,
+  "media_id": "18167223106494188",
+  "posted_at": "2026-11-25"
+ },
+ {
+  "id": "lasix",
+  "caption": "Lasix works by blocking one transporter. Furosemide blocks NKCC2 in the thick ascending limb of the loop of Henle, so sodium, potassium, and chloride stay in the tubule and water follows them out. That is why it is so powerful. IV Lasix also dilates veins within minutes, which helps in pulmonary edema before the urine even flows. The cost: you lose potassium, magnesium, and calcium, and you can overshoot into hypovolemia and AKI. Save the last slide for the whole picture.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/lasix/lasix-7.jpg"
+  ],
+  "posted": true,
+  "media_id": "18130254034858108",
+  "posted_at": "2026-11-26"
+ },
+ {
+  "id": "hs-and-ts",
+  "caption": "The Hs and Ts are the reversible causes the AHA tells you to treat during every cardiac arrest: hypovolemia, hypoxia, hydrogen ion, hypo and hyperkalemia, hypothermia, tension pneumothorax, tamponade, toxins, and pulmonary and coronary thrombosis. Think of them every 2 minutes, especially in PEA and asystole. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hs-and-ts/hs-and-ts-7.jpg"
+  ],
+  "posted": true,
+  "media_id": "18023832395952934",
+  "posted_at": "2026-11-27"
+ },
+ {
+  "id": "ftw-peg",
+  "caption": "FTW\u00b2 (For the Wards, For the Win): the PEG tube. A PEG is a tube placed through the abdominal wall into the stomach under endoscopic guidance, held in place by an internal bumper and an external bolster. It is used when a patient needs enteral access for more than 4 to 6 weeks. Know the early and late complications, and never blindly replace a tube from the first month. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-7.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-8.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-9.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ftw-peg/ftw-peg-10.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "anticoag",
+  "caption": "Warfarin vs DOACs: same goal, different targets. Warfarin blocks VKORC1, so vitamin K cannot be recycled and factors II, VII, IX, and X are made inactive. That is slow and needs INR monitoring. DOACs block one enzyme directly: factor Xa (apixaban, rivaroxaban, edoxaban) or thrombin (dabigatran). Fixed dosing, fewer interactions, no routine INR. Know your reversal agents before the bleed. Warfarin still wins for mechanical valves, moderate to severe mitral stenosis, and antiphospholipid syndrome. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anticoag/anticoag-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-pe-twi",
+  "caption": "ECG pearl: T wave inversions in V1 to V4 and the inferior leads at the same time point to right heart strain, so think pulmonary embolism. Sinus tachycardia is still the most common PE finding, and a normal ECG does not rule it out. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pe-twi/ecg-pe-twi-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "betablocker",
+  "caption": "Beta blockers turn down the sympathetic drive. Beta1 receptors in the heart use Gs, cAMP, and PKA to raise rate and contractility. Block them and heart rate, contractility, and oxygen demand all fall. Selectivity matters: beta2 blockade in the lungs can cause bronchospasm. ED uses include AF with RVR, ACS, aortic dissection (esmolol first), and thyroid storm. In overdose, glucagon works because it makes cAMP through its own receptor and bypasses the block. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "statin",
+  "caption": "Statins block the rate limiting step of cholesterol synthesis. HMG-CoA reductase turns HMG-CoA into mevalonate in the liver. Block it, and liver cells upregulate LDL receptors and pull more LDL out of the blood. Beyond LDL, statins stabilize plaques and calm inflammation, which is why they prevent MIs and strokes. ED relevance: muscle pain plus dark urine means check a CK and creatinine for rhabdomyolysis, especially with CYP3A4 inhibitors or gemfibrozil. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/statin/statin-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-wellens",
+  "caption": "ECG pearl: biphasic or deeply inverted T waves in V2 and V3 in a pain free patient with recent chest pain is Wellens syndrome, a sign of critical proximal LAD stenosis. Do not stress test these patients. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wellens/ecg-wellens-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "sglt2",
+  "caption": "SGLT2 inhibitors make you pee out the sugar. SGLT2 in the proximal tubule reabsorbs most of the filtered glucose along with sodium. Block it and glucose and sodium leave in the urine, lowering glucose, weight, and blood pressure. The benefits reach the heart and kidneys: fewer heart failure hospitalizations and slower CKD progression, with or without diabetes. The ED catch is euglycemic DKA: ketoacidosis with a normal glucose. Check ketones and a gap, not just the glucose. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sglt2/sglt2-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "hf-left-right",
+  "caption": "Left vs right heart failure. Left sided failure backs blood up into the lungs: dyspnea, orthopnea, crackles, S3. Right sided failure backs blood up into the body: JVD, liver congestion, leg edema. The most common cause of right heart failure is left heart failure. If you see JVD with clear lungs, think RV infarct, tamponade, PE, or lung disease. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-dewinter",
+  "caption": "ECG pearl: upsloping ST depression flowing into tall, symmetric T waves in the precordial leads is the de Winter pattern, a STEMI equivalent from proximal LAD occlusion. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-dewinter/ecg-dewinter-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "hf-compensation",
+  "caption": "The body tries to rescue a failing heart, and the rescue makes things worse. Low output triggers sympathetic and RAAS activation, which raises preload and afterload and drives remodeling. That is why ACE inhibitors, ARBs, ARNIs, beta blockers, and MRAs improve survival in HFrEF. Loop diuretics relieve congestion but do not improve mortality. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-compensation/hf-compensation-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "nephrotic-nephritic",
+  "caption": "Nephrotic syndrome is a protein leak: proteinuria over 3.5 g/day, low albumin, edema, high lipids. Nephritic syndrome is glomerular inflammation: hematuria with RBC casts, hypertension, and azotemia. The classic nephrotic causes are minimal change (kids), FSGS, membranous, and diabetes. Classic nephritic causes are poststreptococcal GN, IgA nephropathy, and RPGN. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/nephrotic-nephritic/nephrotic-nephritic-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-posterior",
+  "caption": "ECG pearl: horizontal ST depression in V1 to V3 with tall R waves and upright T waves in a patient with chest pain suggests a posterior MI. Get posterior leads V7 to V9 to confirm. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-posterior/ecg-posterior-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "hyperkalemia-plan",
+  "caption": "Hyperkalemia with ECG changes is an emergency. Step 1: IV calcium to stabilize the heart. Step 2: shift potassium into cells with insulin and dextrose, albuterol, and bicarbonate if acidotic. Step 3: remove it with loop diuretics, binders, or dialysis. Calcium does not lower potassium, and shifts wear off, so plan for removal. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyperkalemia-plan/hyperkalemia-plan-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "anion-gap",
+  "caption": "Metabolic acidosis starts with the anion gap: sodium minus chloride minus bicarbonate. A high gap means unmeasured acids: methanol, uremia, DKA, propylene glycol or isoniazid or iron, lactate, ethylene glycol, salicylates. A normal gap means bicarbonate loss or chloride gain: diarrhea, renal tubular acidosis, saline. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anion-gap/anion-gap-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-avr",
+  "caption": "ECG pearl: ST elevation in aVR with widespread ST depression suggests left main or three vessel disease, or a demand state. It is a high risk pattern, not a routine NSTEMI. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-avr/ecg-avr-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "pe-workup",
+  "caption": "PE workup depends on stability and pretest probability. Unstable patients get bedside echo and treatment. Low risk patients who are PERC negative need no testing. Others get D dimer, then CTPA if positive, and high probability goes straight to CTPA. Anticoagulate if stable, lyse if massive. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/pe-workup/pe-workup-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "stroke-algorithm",
+  "caption": "Acute stroke in the ED: note last known well, get a stat noncontrast CT and a glucose, then decide on reperfusion. Thrombolysis (tenecteplase or alteplase) works within 4.5 hours if there is no hemorrhage and BP is under 185/110, and the 2026 guideline allows selected patients up to 24 hours based on imaging. Thrombectomy is for large vessel occlusion. Hypoglycemia, postictal paralysis, and posterior circulation strokes are common traps. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stroke-algorithm/stroke-algorithm-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-sgarbossa",
+  "caption": "ECG pearl: in LBBB or a paced rhythm, use the Smith modified Sgarbossa criteria: concordant ST elevation, concordant ST depression in V1 to V3, or ST elevation of at least 25 percent of the preceding S wave. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-sgarbossa/ecg-sgarbossa-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "hyponatremia",
+  "caption": "Hyponatremia: check serum osmolality first, then volume status, then urine sodium and osmolality. SIADH is a euvolemic cause with high urine sodium. Severe symptoms like seizures get 3 percent saline in boluses. Correct slowly: overcorrection causes osmotic demyelination. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hyponatremia/hyponatremia-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "dka-mechanism",
+  "caption": "DKA starts with insulin deficiency. Glucose cannot enter cells while fat breakdown makes ketoacids, causing an anion gap metabolic acidosis. Osmotic diuresis dehydrates the patient and depletes total body potassium even if the serum level looks normal or high. Fluids first, check potassium, then insulin. If potassium is low, replace it before starting insulin. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/dka-mechanism/dka-mechanism-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-tamponade",
+  "caption": "ECG pearl: sinus tachycardia, low voltage, and electrical alternans together point to cardiac tamponade. Confirm with bedside echo and drain if unstable. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-tamponade/ecg-tamponade-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "stemi-algorithm",
+  "caption": "STEMI in the ED: ECG within 10 minutes of first medical contact, activate the cath lab on ST elevation in two contiguous leads, give aspirin and an anticoagulant, and reperfuse. Primary PCI is preferred if it can happen within 120 minutes of first medical contact. Otherwise give fibrinolytics within 30 minutes and transfer. Inferior STEMI: get a right sided ECG before nitrates. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/stemi-algorithm/stemi-algorithm-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "asthma-attack",
+  "caption": "An asthma attack has two phases. The early phase starts in minutes when allergen cross links IgE on mast cells and releases histamine and leukotrienes. The late phase starts hours later as Th2 cytokines recruit eosinophils and cause edema and mucus. Albuterol relaxes smooth muscle, inhaled steroids calm inflammation. A silent chest or a normal CO2 in a tiring patient is a danger sign. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/asthma-attack/asthma-attack-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-wpw-af",
+  "caption": "ECG pearl: a very fast, irregular, wide complex rhythm with changing QRS shapes can be atrial fibrillation with WPW. Avoid AV nodal blockers. Cardiovert if unstable, procainamide if stable. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wpw-af/ecg-wpw-af-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "shock-types",
+  "caption": "Shock is inadequate oxygen delivery. BP equals cardiac output times systemic vascular resistance. Hypovolemic shock is cold with low filling pressures, cardiogenic is cold and wet, distributive is warm with low SVR, and obstructive comes from PE, tamponade, or tension pneumothorax. Match the type to the fix. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-6.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/shock-types/shock-types-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "anaphylaxis",
+  "caption": "Anaphylaxis is IgE mediated mast cell and basophil degranulation. Histamine and other mediators cause vasodilation, leak, and bronchospasm. Epinephrine IM into the anterolateral thigh is first line. Antihistamines and steroids are adjuncts only. Observe for a biphasic reaction. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/anaphylaxis/anaphylaxis-6.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-brugada",
+  "caption": "ECG pearl: coved ST elevation of at least 2 mm in V1 or V2 followed by an inverted T wave is the Brugada type 1 pattern. Fever and sodium channel blockers can unmask it. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-brugada/ecg-brugada-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "sepsis-bundle",
+  "caption": "Sepsis in the ED: measure lactate, get cultures, give broad antibiotics within 1 hour if shock is likely or present, give 30 mL/kg crystalloid for hypoperfusion, and start norepinephrine for a MAP under 65 despite fluids. Source control matters too. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/sepsis-bundle/sepsis-bundle-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "aortic-dissection",
+  "caption": "Aortic dissection: sudden tearing pain, pulse or blood pressure differences, neuro deficits, or a new aortic regurgitation murmur. Use the ADD-RS, then CT angiography. Control heart rate first with a beta blocker, then blood pressure. Type A goes to surgery. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/aortic-dissection/aortic-dissection-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-pericarditis",
+  "caption": "ECG pearl: diffuse concave ST elevation with PR depression, and PR elevation in aVR, points to pericarditis. Reciprocal ST depression or convex ST elevation favors a STEMI instead. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-pericarditis/ecg-pericarditis-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ugib",
+  "caption": "Upper GI bleed in the ED: resuscitate, risk stratify with the Glasgow-Blatchford score, transfuse for hemoglobin of 7 or less, start an IV PPI, and get endoscopy within 24 hours. If varices are possible, add octreotide and ceftriaxone. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ugib/ugib-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "afib-ed",
+  "caption": "AF with RVR in the ED: unstable patients get synchronized cardioversion. Stable patients get rate control with a beta blocker or diltiazem, or rhythm control. Avoid diltiazem in systolic heart failure. In WPW, use cardioversion or procainamide. Decide on anticoagulation with CHA2DS2-VASc. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/afib-ed/afib-ed-6.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-torsades",
+  "caption": "ECG pearl: polymorphic VT with a twisting QRS and a long QT is torsades de pointes. IV magnesium is first line, correct potassium, and stop QT prolonging drugs. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-torsades/ecg-torsades-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "chest-pain-big5",
+  "caption": "Chest pain in the ED: rule out the life threats before you think about benign causes. These are acute coronary syndrome, pulmonary embolism, aortic dissection, tension pneumothorax, and esophageal rupture. Each has one clue and one test. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/chest-pain-big5/chest-pain-big5-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-wct",
+  "caption": "ECG pearl: treat a wide complex tachycardia as VT until proven otherwise. AV dissociation, capture or fusion beats, and chest lead negative concordance point to VT, and stable vitals do not rule it out. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-wct/ecg-wct-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-rv-infarct",
+  "caption": "ECG pearl: inferior STEMI with hypotension, JVD, and clear lungs is an RV infarct until proven otherwise. Get a right sided ECG and avoid nitrates. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-rv-infarct/ecg-rv-infarct-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-digoxin",
+  "caption": "ECG pearl: scooped ST segments are the digitalis effect and do not mean toxicity. Toxicity shows up as arrhythmias like atrial tachycardia with block or bidirectional VT. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-digoxin/ecg-digoxin-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "ecg-calcium",
+  "caption": "ECG pearl: low calcium lengthens the QT interval and high calcium shortens it. Low potassium and low magnesium also cause long QT patterns and torsades risk. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ecg-calcium/ecg-calcium-5.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ }
 ]

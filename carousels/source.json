@@ -3229,5 +3229,216 @@
     "text": "Run the big five first. Each one has a clue, a test, and a time sensitive fix."
    }
   ]
+ },
+ {
+  "id": "ftw-peg",
+  "palette": 1,
+  "caption": "FTW\u00b2 (For the Wards, For the Win): the PEG tube. A PEG is a tube placed through the abdominal wall into the stomach under endoscopic guidance, held in place by an internal bumper and an external bolster. It is used when a patient needs enteral access for more than 4 to 6 weeks. Know the early and late complications, and never blindly replace a tube from the first month. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "FTW\u00b2 \u00b7 FOR THE WARDS, FOR THE WIN",
+    "title": "What is a PEG tube? What to know",
+    "sub": "Description, function, and what goes wrong"
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 WHAT IT IS",
+    "title": "Percutaneous endoscopic gastrostomy",
+    "sub": "",
+    "items": [
+     [
+      "The tube",
+      "Passes through the abdominal wall into the stomach"
+     ],
+     [
+      "How it stays",
+      "An internal bumper sits against the stomach wall and an external bolster rests on the skin"
+     ],
+     [
+      "The tract",
+      "Stomach wall seals to the abdominal wall around it. It matures in about 1 to 2 weeks and is well formed by about 4 weeks"
+     ],
+     [
+      "When it is placed",
+      "Enteral access needed for more than 4 to 6 weeks"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 FUNCTION AND USE",
+    "title": "What it does and who gets one",
+    "sub": "",
+    "items": [
+     [
+      "Function",
+      "Feeds, fluids, and liquid meds go straight into the stomach, bypassing the mouth and esophagus. It can also decompress the stomach"
+     ],
+     [
+      "Neurologic dysphagia",
+      "Stroke, ALS, MS, Parkinson disease"
+     ],
+     [
+      "Head and neck or esophageal cancer",
+      "Tumor blocks swallowing"
+     ],
+     [
+      "Needs a working gut",
+      "Everything distal to the stomach must function"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 WHO CANNOT GET ONE",
+    "title": "Contraindications",
+    "sub": "",
+    "items": [
+     [
+      "Coagulopathy",
+      "Uncorrected"
+     ],
+     [
+      "Peritonitis",
+      "And hemodynamic instability"
+     ],
+     [
+      "Severe ascites",
+      "Poor tract formation and leak risk"
+     ],
+     [
+      "No safe tract",
+      "Or bowel obstruction when used for feeding"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 EARLY PROBLEMS",
+    "title": "First weeks after placement",
+    "sub": "",
+    "items": [
+     [
+      "Peristomal infection",
+      "Redness, warmth, purulent drainage"
+     ],
+     [
+      "Bleeding and aspiration",
+      "Major but uncommon complications"
+     ],
+     [
+      "Peritonitis",
+      "From leak into the peritoneum"
+     ],
+     [
+      "Early dislodgement",
+      "The tract has not matured yet"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 LATE PROBLEMS",
+    "title": "Months later",
+    "sub": "",
+    "items": [
+     [
+      "Clogging",
+      "Most common. Poor flushing or crushed meds"
+     ],
+     [
+      "Leakage and overgranulation",
+      "Leaking around the site, moist red tissue"
+     ],
+     [
+      "Buried bumper",
+      "The internal bumper migrates into the tract. Tube will not rotate or advance, or feeds hurt"
+     ],
+     [
+      "Tube migration",
+      "Bumper can lodge in the pylorus and cause gastric outlet obstruction"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 FIX A CLOG",
+    "title": "Do not force it",
+    "sub": "",
+    "items": [
+     [
+      "Warm water",
+      "Gentle push and pull with a 30 to 60 mL syringe"
+     ],
+     [
+      "Let it soak",
+      "Clamp for 15 to 20 minutes, then repeat"
+     ],
+     [
+      "Never",
+      "Use a wire, and do not force it"
+     ],
+     [
+      "Prevent",
+      "Flush 15 to 30 mL before and after meds and after feeds"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 TUBE FELL OUT",
+    "title": "First question: how old is the tract?",
+    "sub": "",
+    "items": [
+     [
+      "Under 4 weeks",
+      "Do not replace blindly. It risks placement into the peritoneum, so get surgery or GI involved"
+     ],
+     [
+      "Over 4 to 6 weeks",
+      "Replace it promptly. A mature tract can close within hours"
+     ],
+     [
+      "Hold the tract open",
+      "A same size or smaller Foley can hold the tract open until replacement"
+     ],
+     [
+      "Confirm",
+      "Check placement before feeding, with a contrast study if there is doubt"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FTW\u00b2 \u00b7 FEEDING SAFETY",
+    "title": "Prevent aspiration",
+    "sub": "",
+    "items": [
+     [
+      "Position",
+      "Head of bed at least 30 degrees during feeds and 30 to 60 minutes after"
+     ],
+     [
+      "Meds",
+      "Give separately, in liquid form when possible, with flushes between"
+     ],
+     [
+      "Never",
+      "Put fiber supplements through the tube"
+     ],
+     [
+      "Fever, pain, or spreading redness",
+      "Think infection or buried bumper"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "A PEG is a stomach tube through the abdominal wall. Clogs are the most common problem, and the first question on a dislodged tube is how old the tract is."
+   }
+  ]
  }
 ]
