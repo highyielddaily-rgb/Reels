@@ -4579,5 +4579,478 @@
     "text": "Cullen is bruising around the navel and Grey Turner is bruising of the flanks. Both mean tracking blood. They are late signs, so find and treat the source of bleeding."
    }
   ]
+ },
+ {
+  "id": "heart-score",
+  "palette": 0,
+  "caption": "HEART score: History, ECG, Age, Risk factors, Troponin. Each scores 0 to 2 for a total of 0 to 10 and estimates 6 week risk of a major adverse cardiac event. Scores 0 to 3 are low risk (about 1 to 2 percent). Use it only in patients with possible ACS and no STEMI or new ischemic ECG changes. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "CARDIOLOGY",
+    "title": "The HEART score",
+    "sub": "Risk stratifying chest pain in the ED"
+   },
+   {
+    "type": "list",
+    "tag": "THE SCORE",
+    "title": "Five items, 0 to 2 points each",
+    "sub": "",
+    "items": [
+     [
+      "H: History",
+      "Slightly, moderately, or highly suspicious for ACS (0, 1, 2)"
+     ],
+     [
+      "E: ECG",
+      "Normal (0), nonspecific repolarization, LBBB, LVH, paced (1), or ST deviation (2)"
+     ],
+     [
+      "A: Age",
+      "Under 45 (0), 45 to 64 (1), 65 or older (2)"
+     ],
+     [
+      "R: Risk factors",
+      "None (0), 1 to 2 (1), 3 or more or known atherosclerotic disease (2)"
+     ],
+     [
+      "T: Troponin",
+      "Normal (0), 1 to 3 times normal (1), over 3 times normal (2)"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "DETAILS",
+    "title": "What counts as a risk factor",
+    "sub": "",
+    "items": [
+     [
+      "Count these",
+      "Hypertension, high cholesterol, diabetes, obesity (BMI over 30), smoking (current or quit within 3 months)"
+     ],
+     [
+      "Family history",
+      "Parent or sibling with cardiovascular disease before age 65"
+     ],
+     [
+      "Automatic 2",
+      "Prior MI, PCI or CABG, stroke or TIA, or peripheral artery disease"
+     ],
+     [
+      "History item",
+      "The most subjective part: pressure, exertional, radiating, diaphoresis vs sharp, positional, reproducible"
+     ]
+    ]
+   },
+   {
+    "type": "compare",
+    "tag": "RISK",
+    "title": "What the total means",
+    "sub": "",
+    "cols": [
+     [
+      "0 to 3: low",
+      [
+       "About 1 to 2 percent risk of a major cardiac event within 6 weeks",
+       "Often considered for early discharge with a serial troponin strategy"
+      ]
+     ],
+     [
+      "4 to 6: moderate",
+      [
+       "Roughly 12 to 17 percent risk in the original studies",
+       "Observation and further testing"
+      ]
+     ],
+     [
+      "7 to 10: high",
+      [
+       "Around 50 percent or more risk",
+       "Admission and early cardiology involvement"
+      ]
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "WHEN NOT TO USE IT",
+    "title": "The score has limits",
+    "sub": "",
+    "items": [
+     [
+      "Skip it for",
+      "STEMI or new ischemic ECG changes, hemodynamic instability, or another condition that requires admission"
+     ],
+     [
+      "Age",
+      "Validated in adults 21 and older"
+     ],
+     [
+      "Troponin",
+      "Use your hospital assay and its cutoffs"
+     ],
+     [
+      "Remember",
+      "A low score lowers risk. It does not remove it, and it does not replace judgment"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "HEART adds history, ECG, age, risk factors, and troponin, each scored 0 to 2. A score of 0 to 3 is low risk, 4 to 6 is moderate, and 7 or higher is high. Use it only after STEMI and unstable patients are excluded."
+   }
+  ]
+ },
+ {
+  "id": "qsofa",
+  "palette": 1,
+  "caption": "qSOFA: respiratory rate 22 or more, altered mentation, systolic BP 100 or less. Two or more flags predicts a higher risk of death or ICU stay in patients with suspected infection. The 2021 Surviving Sepsis guidelines recommend against using it as a single screening tool. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "SEPSIS",
+    "title": "qSOFA",
+    "sub": "What it is and what it is not"
+   },
+   {
+    "type": "list",
+    "tag": "THE THREE",
+    "title": "Quick bedside criteria",
+    "sub": "",
+    "items": [
+     [
+      "Respiratory rate",
+      "22 breaths per minute or more"
+     ],
+     [
+      "Altered mentation",
+      "Any change from baseline, GCS under 15"
+     ],
+     [
+      "Systolic BP",
+      "100 mmHg or less"
+     ],
+     [
+      "Positive",
+      "Two or more of the three"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "WHAT IT DOES",
+    "title": "What a positive score tells you",
+    "sub": "",
+    "items": [
+     [
+      "Origin",
+      "Introduced with the 2016 Sepsis 3 definitions"
+     ],
+     [
+      "Purpose",
+      "Flag patients with suspected infection who are likelier to die or need ICU care"
+     ],
+     [
+      "Not",
+      "A diagnosis of sepsis, and not a rule out tool"
+     ],
+     [
+      "Sepsis 3 definition",
+      "Life threatening organ dysfunction from a dysregulated response to infection"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "THE CATCH",
+    "title": "Why it should not be used alone",
+    "sub": "",
+    "items": [
+     [
+      "Guidelines",
+      "Surviving Sepsis 2021 recommends against qSOFA as a single screening tool compared with SIRS, NEWS, or MEWS"
+     ],
+     [
+      "Why",
+      "Poor sensitivity, so a negative score can miss sepsis"
+     ],
+     [
+      "Late",
+      "Hypotension and altered mentation tend to appear later"
+     ],
+     [
+      "Better",
+      "Combine it with vitals trends, lactate, and clinical judgment"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "IN THE ED",
+    "title": "What to do instead of relying on the number",
+    "sub": "",
+    "items": [
+     [
+      "Suspect infection",
+      "Look for a source and treat early"
+     ],
+     [
+      "Check perfusion",
+      "Lactate, mental status, urine output, cap refill"
+     ],
+     [
+      "Act early",
+      "Cultures, antibiotics, and fluids when sepsis is suspected"
+     ],
+     [
+      "Trend",
+      "Repeat vitals and reassess often"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "qSOFA counts respiratory rate 22 or more, altered mentation, and systolic BP 100 or less. Two or more means higher risk, but a negative score does not rule out sepsis, so do not use it alone."
+   }
+  ]
+ },
+ {
+  "id": "ottawa-ankle",
+  "palette": 2,
+  "caption": "Ottawa ankle rules: image only if there is pain in the malleolar or midfoot zone plus a specific bony tenderness or inability to bear weight. Nearly 100 percent sensitive for fractures in validation studies, which makes them a good tool to rule out fracture and skip unneeded x-rays. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ORTHO",
+    "title": "Ottawa ankle and foot rules",
+    "sub": "Who actually needs an x-ray"
+   },
+   {
+    "type": "list",
+    "tag": "ANKLE",
+    "title": "Ankle x-ray if pain near the malleoli plus any one",
+    "sub": "",
+    "items": [
+     [
+      "Lateral malleolus",
+      "Bone tenderness along the posterior edge of the distal 6 cm or the tip"
+     ],
+     [
+      "Medial malleolus",
+      "Bone tenderness along the posterior edge of the distal 6 cm or the tip"
+     ],
+     [
+      "Weight bearing",
+      "Cannot take 4 steps both right after the injury and in the ED"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "FOOT",
+    "title": "Foot x-ray if pain in the midfoot plus any one",
+    "sub": "",
+    "items": [
+     [
+      "Fifth metatarsal",
+      "Bone tenderness at the base"
+     ],
+     [
+      "Navicular",
+      "Bone tenderness over the navicular"
+     ],
+     [
+      "Weight bearing",
+      "Cannot take 4 steps both right after the injury and in the ED"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "HOW TO USE",
+    "title": "Examine it the right way",
+    "sub": "",
+    "items": [
+     [
+      "Step 1",
+      "Ask where the pain is: malleolar zone or midfoot zone"
+     ],
+     [
+      "Step 2",
+      "Palpate the bone, not just the soft tissue"
+     ],
+     [
+      "Step 3",
+      "Watch the patient take 4 steps, limping counts as walking"
+     ],
+     [
+      "Step 4",
+      "Any positive item means imaging"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "LIMITS",
+    "title": "When the rules do not apply",
+    "sub": "",
+    "items": [
+     [
+      "Exclusions",
+      "Intoxication, distracting injuries, and neurologic deficits that limit the exam"
+     ],
+     [
+      "Age",
+      "Developed in adults, and also performs well in children who can cooperate"
+     ],
+     [
+      "Remember",
+      "They exclude fracture, they do not exclude ligament injury, and a negative exam still needs reasonable follow up"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Ottawa rules need pain in the right zone plus bony tenderness at specific spots or inability to take 4 steps. If none apply, a fracture is very unlikely and an x-ray can be skipped."
+   }
+  ]
+ },
+ {
+  "id": "gcs",
+  "palette": 3,
+  "caption": "Glasgow Coma Scale: eye opening 4, verbal 5, motor 6, for a total of 3 to 15. Report the three parts, not just the total. Severe injury is a score of 8 or less, which should prompt strong consideration of airway protection. The motor score is the most useful single component. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "NEUROLOGY",
+    "title": "Glasgow Coma Scale",
+    "sub": "How to score it and how to use it"
+   },
+   {
+    "type": "list",
+    "tag": "EYES (4)",
+    "title": "Best eye response",
+    "sub": "",
+    "items": [
+     [
+      "4",
+      "Opens spontaneously"
+     ],
+     [
+      "3",
+      "Opens to voice"
+     ],
+     [
+      "2",
+      "Opens to pain"
+     ],
+     [
+      "1",
+      "No eye opening"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "VERBAL (5)",
+    "title": "Best verbal response",
+    "sub": "",
+    "items": [
+     [
+      "5",
+      "Oriented"
+     ],
+     [
+      "4",
+      "Confused conversation"
+     ],
+     [
+      "3",
+      "Inappropriate words"
+     ],
+     [
+      "2",
+      "Incomprehensible sounds"
+     ],
+     [
+      "1",
+      "No sounds"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "MOTOR (6)",
+    "title": "Best motor response",
+    "sub": "",
+    "items": [
+     [
+      "6",
+      "Obeys commands"
+     ],
+     [
+      "5",
+      "Localizes pain"
+     ],
+     [
+      "4",
+      "Withdraws from pain"
+     ],
+     [
+      "3",
+      "Abnormal flexion (decorticate)"
+     ],
+     [
+      "2",
+      "Extension (decerebrate)"
+     ],
+     [
+      "1",
+      "No movement"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "USING IT",
+    "title": "How to apply the number",
+    "sub": "",
+    "items": [
+     [
+      "Range",
+      "3 to 15, report as for example E3 V4 M5"
+     ],
+     [
+      "Severity",
+      "13 to 15 mild, 9 to 12 moderate, 8 or less severe"
+     ],
+     [
+      "Airway",
+      "8 or less should prompt strong consideration of intubation"
+     ],
+     [
+      "Intubated",
+      "Verbal cannot be scored, record it as V T"
+     ],
+     [
+      "Best response",
+      "Score the best response, using central pain such as supraorbital or trapezius pressure for motor"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "GCS is eye 4, verbal 5, motor 6, ranging from 3 to 15. Report the components, treat 8 or less as severe, and remember that motor is the most useful part."
+   }
+  ]
  }
 ]

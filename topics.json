@@ -388,60 +388,6 @@
   "posted_at": null
  },
  {
-  "id": "gcs",
-  "tag": "NEUROLOGY",
-  "line": "Glasgow Coma Scale: eyes 4, verbal 5, motor 6.",
-  "sub": "Scores range from 3 to 15.",
-  "caption": "Glasgow Coma Scale: eyes 4, verbal 5, motor 6. Scores range from 3 to 15.\n\nEyes (4): Spontaneous, to voice, to pain, none\nVerbal (5): Oriented, confused, words, sounds, none\nMotor (6): Obeys, localizes, withdraws, flexion, extension, none\nPearl: Report the parts, not just the total\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "palette": 3,
-  "posted": false,
-  "media_id": null,
-  "posted_at": null,
-  "points": [
-   [
-    "Eyes (4)",
-    "Spontaneous, to voice, to pain, none"
-   ],
-   [
-    "Verbal (5)",
-    "Oriented, confused, words, sounds, none"
-   ],
-   [
-    "Motor (6)",
-    "Obeys, localizes, withdraws, flexion, extension, none"
-   ],
-   [
-    "Pearl",
-    "Report the parts, not just the total"
-   ]
-  ]
- },
- {
-  "id": "qsofa",
-  "tag": "SEPSIS",
-  "line": "qSOFA: respiratory rate 22 or more, altered mentation, systolic BP 100 or less.",
-  "sub": "A prompt to look closer, not a sepsis diagnosis.",
-  "caption": "qSOFA: respiratory rate 22 or more, altered mentation, systolic BP 100 or less. A prompt to look closer, not a sepsis diagnosis.\n\nScore: Two or more flags means higher risk of a poor outcome\nLimit: Surviving Sepsis advises against using it as a single screening tool\nDo: Look for infection and organ dysfunction\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "palette": 4,
-  "posted": false,
-  "media_id": null,
-  "posted_at": null,
-  "points": [
-   [
-    "Score",
-    "Two or more flags means higher risk of a poor outcome"
-   ],
-   [
-    "Limit",
-    "Surviving Sepsis advises against using it as a single screening tool"
-   ],
-   [
-    "Do",
-    "Look for infection and organ dysfunction"
-   ]
-  ]
- },
- {
   "id": "nexus",
   "tag": "TRAUMA",
   "line": "NEXUS: five boxes that let you skip C spine imaging.",
@@ -451,31 +397,6 @@
   "posted": false,
   "media_id": null,
   "posted_at": null
- },
- {
-  "id": "ottawa",
-  "tag": "EMERGENCY MEDICINE",
-  "line": "Ottawa ankle rules: image only if pain plus a specific trigger.",
-  "sub": "They help you skip unneeded x-rays.",
-  "caption": "Ottawa ankle rules: image only if pain plus a specific trigger. They help you skip unneeded x-rays.\n\nAnkle film if: Bone tenderness at the back edge or tip of either malleolus\nOr: Cannot take 4 steps right after the injury and in the ED\nFoot film if: Tenderness at the base of the fifth metatarsal or the navicular\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "palette": 0,
-  "posted": false,
-  "media_id": null,
-  "posted_at": null,
-  "points": [
-   [
-    "Ankle film if",
-    "Bone tenderness at the back edge or tip of either malleolus"
-   ],
-   [
-    "Or",
-    "Cannot take 4 steps right after the injury and in the ED"
-   ],
-   [
-    "Foot film if",
-    "Tenderness at the base of the fifth metatarsal or the navicular"
-   ]
-  ]
  },
  {
   "id": "sah",
@@ -941,34 +862,5 @@
   "posted": false,
   "media_id": null,
   "posted_at": null
- },
- {
-  "id": "heartscore",
-  "tag": "CARDIOLOGY",
-  "line": "HEART score: History, ECG, Age, Risk factors, Troponin.",
-  "sub": "Sorts low risk chest pain.",
-  "caption": "HEART score: History, ECG, Age, Risk factors, Troponin. Sorts low risk chest pain.\n\nScoring: Each of the five items scores 0, 1, or 2\n0 to 3: Low risk: about 2 percent or less chance of a major cardiac event\n4 to 6: Moderate risk: observe and test further\n7 to 10: High risk: admit and consider early invasive care\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
-  "palette": 4,
-  "posted": false,
-  "media_id": null,
-  "posted_at": null,
-  "points": [
-   [
-    "Scoring",
-    "Each of the five items scores 0, 1, or 2"
-   ],
-   [
-    "0 to 3",
-    "Low risk: about 2 percent or less chance of a major cardiac event"
-   ],
-   [
-    "4 to 6",
-    "Moderate risk: observe and test further"
-   ],
-   [
-    "7 to 10",
-    "High risk: admit and consider early invasive care"
-   ]
-  ]
  }
 ]

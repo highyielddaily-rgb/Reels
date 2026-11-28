@@ -101,6 +101,21 @@
   "posted_at": "2026-11-28T14:29:50.918078+00:00"
  },
  {
+  "id": "heart-score",
+  "caption": "HEART score: History, ECG, Age, Risk factors, Troponin. Each scores 0 to 2 for a total of 0 to 10 and estimates 6 week risk of a major adverse cardiac event. Scores 0 to 3 are low risk (about 1 to 2 percent). Use it only in patients with possible ACS and no STEMI or new ischemic ECG changes. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/heart-score/heart-score-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/heart-score/heart-score-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/heart-score/heart-score-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/heart-score/heart-score-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/heart-score/heart-score-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/heart-score/heart-score-6.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
   "id": "anticoag",
   "caption": "Warfarin vs DOACs: same goal, different targets. Warfarin blocks VKORC1, so vitamin K cannot be recycled and factors II, VII, IX, and X are made inactive. That is slow and needs INR monitoring. DOACs block one enzyme directly: factor Xa (apixaban, rivaroxaban, edoxaban) or thrombin (dabigatran). Fixed dosing, fewer interactions, no routine INR. Know your reversal agents before the bleed. Warfarin still wins for mechanical valves, moderate to severe mitral stenosis, and antiphospholipid syndrome. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -141,6 +156,21 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/betablocker/betablocker-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "qsofa",
+  "caption": "qSOFA: respiratory rate 22 or more, altered mentation, systolic BP 100 or less. Two or more flags predicts a higher risk of death or ICU stay in patients with suspected infection. The 2021 Surviving Sepsis guidelines recommend against using it as a single screening tool. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/qsofa/qsofa-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/qsofa/qsofa-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/qsofa/qsofa-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/qsofa/qsofa-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/qsofa/qsofa-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/qsofa/qsofa-6.jpg"
   ],
   "posted": false,
   "media_id": null,
@@ -194,6 +224,21 @@
   "posted_at": null
  },
  {
+  "id": "ottawa-ankle",
+  "caption": "Ottawa ankle rules: image only if there is pain in the malleolar or midfoot zone plus a specific bony tenderness or inability to bear weight. Nearly 100 percent sensitive for fractures in validation studies, which makes them a good tool to rule out fracture and skip unneeded x-rays. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ottawa-ankle/ottawa-ankle-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ottawa-ankle/ottawa-ankle-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ottawa-ankle/ottawa-ankle-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ottawa-ankle/ottawa-ankle-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ottawa-ankle/ottawa-ankle-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/ottawa-ankle/ottawa-ankle-6.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
   "id": "sglt2",
   "caption": "SGLT2 inhibitors make you pee out the sugar. SGLT2 in the proximal tubule reabsorbs most of the filtered glucose along with sodium. Block it and glucose and sodium leave in the urine, lowering glucose, weight, and blood pressure. The benefits reach the heart and kidneys: fewer heart failure hospitalizations and slower CKD progression, with or without diabetes. The ED catch is euglycemic DKA: ketoacidosis with a normal glucose. Check ketones and a gap, not just the glucose. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
   "image_urls": [
@@ -238,6 +283,21 @@
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-5.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-6.jpg",
    "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/hf-left-right/hf-left-right-7.jpg"
+  ],
+  "posted": false,
+  "media_id": null,
+  "posted_at": null
+ },
+ {
+  "id": "gcs",
+  "caption": "Glasgow Coma Scale: eye opening 4, verbal 5, motor 6, for a total of 3 to 15. Report the three parts, not just the total. Severe injury is a score of 8 or less, which should prompt strong consideration of airway protection. The motor score is the most useful single component. Save the last slide.\n\nEducational content only, not medical advice.\n\nWhat systems, topics, pearls & tidbits would help you? Comment below.",
+  "image_urls": [
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/gcs/gcs-1.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/gcs/gcs-2.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/gcs/gcs-3.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/gcs/gcs-4.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/gcs/gcs-5.jpg",
+   "https://raw.githubusercontent.com/highyielddaily-rgb/Reels/main/carousels/gcs/gcs-6.jpg"
   ],
   "posted": false,
   "media_id": null,
