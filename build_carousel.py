@@ -32,6 +32,9 @@ def body(s,a,d,t):
         for col in s["cols"]:
             h+=f'<div class="col"><div class="ch">{E(col[0])}</div>'+"".join(f'<div class="ci">{E(i)}</div>' for i in col[1])+'</div>'
         h+='</div>'
+    elif ty=="svg":
+        import bodydraw
+        h+=getattr(bodydraw,s["fn"])()
     elif ty=="ecg":
         import ecgdraw
         n=len(s["panels"]); hh={1:560,2:380,3:236}[n]

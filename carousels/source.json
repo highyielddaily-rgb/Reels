@@ -4412,5 +4412,172 @@
     "text": "Match the device to the need: nasal cannula for mild, masks for moderate, non-rebreather or high flow for severe, Venturi when you need a set FiO2."
    }
   ]
+ },
+ {
+  "id": "cullen-grey-turner",
+  "palette": 5,
+  "caption": "Cullen sign is bruising around the belly button and Grey Turner sign is bruising of the flanks. Both mean blood has tracked from the retroperitoneum under the skin. They are late, uncommon signs, classically seen in severe hemorrhagic pancreatitis, so look for the source of bleeding. Save the last slide.",
+  "slides": [
+   {
+    "type": "cover",
+    "tag": "ABDOMEN",
+    "title": "Cullen and Grey Turner signs",
+    "sub": "What they look like and why they happen"
+   },
+   {
+    "type": "svg",
+    "tag": "WHAT THEY LOOK LIKE",
+    "title": "Where the bruising shows up",
+    "sub": "Schematic drawing, not a real photograph",
+    "fn": "cullen"
+   },
+   {
+    "type": "list",
+    "tag": "THE SIGNS",
+    "title": "What you see",
+    "sub": "",
+    "items": [
+     [
+      "Cullen sign",
+      "Blue or purple discoloration around the umbilicus"
+     ],
+     [
+      "Grey Turner sign",
+      "Bruising of the flank, between the last rib and the top of the hip"
+     ],
+     [
+      "Color",
+      "Blue, purple, or brown, often turning green or yellow as it ages"
+     ],
+     [
+      "With it",
+      "Possible swelling and abdominal pain"
+     ]
+    ]
+   },
+   {
+    "type": "flow",
+    "tag": "WHY IT HAPPENS",
+    "title": "How blood reaches the skin",
+    "sub": "",
+    "steps": [
+     [
+      "Bleeding",
+      "Blood collects in the retroperitoneum or abdomen"
+     ],
+     [
+      "Tracking",
+      "It spreads along fascial planes"
+     ],
+     [
+      "Cullen",
+      "Along the gastrohepatic and falciform ligaments to the umbilicus"
+     ],
+     [
+      "Grey Turner",
+      "From the posterior pararenal space to the flank"
+     ]
+    ],
+    "end": true
+   },
+   {
+    "type": "list",
+    "tag": "CAUSES",
+    "title": "Think bleeding, not just the pancreas",
+    "sub": "",
+    "items": [
+     [
+      "Pancreatitis",
+      "Severe acute necrotizing or hemorrhagic pancreatitis is the classic cause"
+     ],
+     [
+      "Ruptured ectopic",
+      "Cullen first described it in 1918"
+     ],
+     [
+      "Vascular",
+      "Ruptured aortic aneurysm"
+     ],
+     [
+      "Other",
+      "Abdominal trauma, ruptured spleen, perforated duodenal ulcer, bleeding on anticoagulation"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "TIMING",
+    "title": "A late and uncommon sign",
+    "sub": "",
+    "items": [
+     [
+      "Delay",
+      "Appears at least 24 hours after the bleeding starts"
+     ],
+     [
+      "In pancreatitis",
+      "Averages about 3 days after onset"
+     ],
+     [
+      "Rare",
+      "Absence does not rule out bleeding"
+     ],
+     [
+      "Meaning",
+      "In pancreatitis it points to severe disease"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "RELATED SIGNS",
+    "title": "Blood can pool elsewhere",
+    "sub": "",
+    "items": [
+     [
+      "Fox sign",
+      "Bruising over the inguinal ligament"
+     ],
+     [
+      "Bryant sign",
+      "Bruising of the scrotum"
+     ],
+     [
+      "Same cause",
+      "Retroperitoneal hemorrhage tracking down"
+     ]
+    ]
+   },
+   {
+    "type": "list",
+    "tag": "ED APPROACH",
+    "title": "What to do",
+    "sub": "",
+    "items": [
+     [
+      "Stabilize",
+      "Airway, breathing, circulation, and IV access"
+     ],
+     [
+      "Labs",
+      "CBC, type and screen, coags, lipase, and hCG in women of reproductive age"
+     ],
+     [
+      "Look for the source",
+      "Bedside ultrasound for free fluid and aorta, then CT if stable"
+     ],
+     [
+      "Consult",
+      "Surgery, GI, or OB depending on the source"
+     ]
+    ]
+   },
+   {
+    "type": "final",
+    "tag": "SUMMARY",
+    "title": "Key takeaway",
+    "text": "Cullen is bruising around the navel and Grey Turner is bruising of the flanks. Both mean tracking blood. They are late signs, so find and treat the source of bleeding."
+   }
+  ]
  }
 ]

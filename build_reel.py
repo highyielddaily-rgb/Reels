@@ -22,7 +22,12 @@ html,body{{margin:0;width:1080px;height:1920px;overflow:hidden}}
 .bg{{position:absolute;inset:-120px;background:{bg}}}
 .grain{{position:absolute;inset:-120px;opacity:.10;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2'/></filter><rect width='300' height='300' filter='url(%23n)'/></svg>")}}
 </style></head><body><div class="bg"></div><div class="grain"></div></body></html>""")
+    pts=r.get("points") or []
     ln=len(r["line"]); size=84 if ln<75 else 72
+    if pts: size=70
+    pts_html=('<div class="pts">'+"".join(f"<div class=\"pt\"><b>{html.escape(a)}</b>{html.escape(b)}</div>" for a,b in pts)+'</div>') if pts else ""
+    sb=r["sub"]; subh="<br>".join(html.escape(x) for x in sb) if isinstance(sb,list) else html.escape(sb)
+    dur=12 if pts else 8
     open(f"{d}/text.html","w").write(f"""<html><head><style>{css_font}
 html,body{{margin:0;width:1080px;height:1920px;background:transparent;font-family:'LoraL',serif;color:{fg}}}
 .wrap{{position:absolute;left:100px;right:100px;top:0;bottom:0;display:flex;flex-direction:column;justify-content:center}}
@@ -30,14 +35,15 @@ html,body{{margin:0;width:1080px;height:1920px;background:transparent;font-famil
 .rule{{width:120px;height:5px;background:{acc};margin-bottom:60px}}
 .line{{font-size:{size}px;line-height:1.2;font-weight:600}}
 .sub{{font-size:46px;font-style:italic;margin-top:60px;opacity:.85;line-height:1.3}}
+.pts{{margin-top:56px}}.pt{{border-left:8px solid {acc};padding:4px 0 4px 28px;margin-bottom:30px;font-size:41px;line-height:1.28}}.pt b{{display:block;font-size:35px;letter-spacing:3px;text-transform:uppercase;color:{acc};margin-bottom:4px}}
 .handle{{position:absolute;bottom:150px;left:0;right:0;text-align:center;font-size:32px;letter-spacing:4px;opacity:.6}}
-</style></head><body><div class="wrap"><div class="tag">{html.escape(r['tag'])}</div><div class="rule"></div><div class="line">{html.escape(r['line'])}</div><div class="sub">{html.escape(r['sub'])}</div></div><div class="handle">{HANDLE}</div></body></html>""")
+</style></head><body><div class="wrap"><div class="tag">{html.escape(r['tag'])}</div><div class="rule"></div><div class="line">{html.escape(r['line'])}</div>{pts_html}<div class="sub">{subh}</div></div><div class="handle">{HANDLE}</div></body></html>""")
     base=["google-chrome","--headless=new","--no-sandbox","--disable-gpu","--hide-scrollbars","--window-size=1080,1920","--virtual-time-budget=3000"]
     subprocess.run(base+[f"--screenshot={d}/bg.png",f"file://{d}/bg.html"],check=True,capture_output=True)
     subprocess.run(base+["--default-background-color=00000000",f"--screenshot={d}/text.png",f"file://{d}/text.html"],check=True,capture_output=True)
-    fc=("[0:v]scale=2160:3840,zoompan=z='1+0.0006*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=240:s=1080x1920:fps=30[b];"
+    fc=(f"[0:v]scale=2160:3840,zoompan=z='1+0.0006*on':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d={dur*30}:s=1080x1920:fps=30[b];"
         "[1:v]format=rgba,fade=t=in:st=0.6:d=1:alpha=1[t];[b][t]overlay=0:0,format=yuv420p[v]")
-    subprocess.run(["ffmpeg","-y","-loop","1","-i",f"{d}/bg.png","-loop","1","-i",f"{d}/text.png","-filter_complex",fc,"-map","[v]","-t","8","-c:v","libx264","-preset","veryfast","-crf","20",f"videos/{tid}.mp4"],check=True,capture_output=True)
+    subprocess.run(["ffmpeg","-y","-loop","1","-i",f"{d}/bg.png","-loop","1","-i",f"{d}/text.png","-filter_complex",fc,"-map","[v]","-t",str(dur),"-c:v","libx264","-preset","veryfast","-crf","20",f"videos/{tid}.mp4"],check=True,capture_output=True)
     from PIL import Image
     os.makedirs("covers",exist_ok=True)
     cv=Image.open(f"{d}/bg.png").convert("RGBA"); cv.alpha_composite(Image.open(f"{d}/text.png").convert("RGBA"))
